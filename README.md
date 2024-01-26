@@ -32,85 +32,58 @@ self-incrimination, Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRem
 
 - Emphasis on Lines of Efforts (LOE) 2, 3, 4:
 
-  - f) "Standard: Disclosures for Law Enforcement Purposes. A DoD covered entity may
-disclose PHI for a law enforcement purpose to a law enforcement official if the conditions in
-Paragraphs 4.4.f.(1) through 4.4.f.(7) are met, as applicable.
-    (1) Permitted Disclosures: Pursuant to Process and as Otherwise Required By Law. A
-DoD covered entity may disclose PHI:
-      (a) As required by law including laws that require the reporting of certain types of
-wounds or other physical injuries, except for laws subject to Paragraph 4.4.b.(1)(b) (reports of
-child abuse and neglect) or 4.4.c.(1) (reports required by law of abuse, neglect, or domestic
-violence).
-      - (b) In compliance with, and as limited by, the relevant requirements of:
-        - 1. A court order, court-ordered warrant, subpoena, or summons issued by a
-judicial officer.
-        - 2. A grand jury subpoena.
-        - 3. An administrative request, including an administrative subpoena or summons,
-a civil or an authorized investigative demand, or similar process authorized under law, if:
-          - a. The information sought is relevant and material to a legitimate law
-enforcement inquiry.
-          - b. The request is in writing, specific, and limited in scope to the extent
-reasonably practicable in light of the purpose for which the information is sought.
-          - c. De-identified information could not reasonably be used.
-    - (2) Permitted Disclosures: Limited Information for Identification and Location
-Purposes. Except for disclosures required by law as permitted by Paragraph 4.4.f.(1)(a), a DoD
-covered entity may disclose PHI in response to a law enforcement officialâ€™s request for such
-information for the purpose of identifying or locating a suspect, fugitive, material witness, or
-missing person, if:
-      - (a) The DoD covered entity discloses only the following information.
-          - 1. Name and address.
-          - 2. Date and place of birth.
-          - 3. Social security number.
-          - 4. ABO blood type and rhesus factor.
-          - 5. Type of injury.
-          - 6. Date and time of treatment.
-          - 7. Date and time of death, if applicable.
-          - 8. A description of distinguishing physical characteristics, including height,
-          weight, gender, race, hair and eye color, presence or absence of facial hair (beard or moustache),
-          scars, and tattoos.
-        - (b) Except as permitted by Paragraph 4.4.f.(2)(a), the DoD covered entity does not
-        disclose for the purposes of identification or location under Paragraph 4.4.f.(2) any PHI related
-        to the individualâ€™s deoxyribonucleic acid analysis, dental records, or typing, samples, or analysis
-        of body fluids or tissue.
-    - (3) Permitted Disclosure: Victims of a Crime. In addition to disclosures required by law
-        as permitted by Paragraph 4.4.f.(1) or otherwise authorized under this section (such as
-        disclosures for public health activities or disclosures about victims of abuse, neglect, or domestic
-        violence), a DoD covered entity may disclose PHI in response to a law enforcement officialâ€™s
-        request for such PHI about an individual who is or is suspected to be a victim of a crime (subject
-        to the special rules for sexual assault and domestic abuse under Paragraph 4.4 f.(7)) if:
-          - (a) The individual agrees to the disclosure; or
-          - (b) The DoD covered entity is unable to obtain the individualâ€™s agreement because of
-          incapacity or other emergency circumstance, provided that:
-          - 1. The law enforcement official represents that such PHI is needed to determine
-        whether a violation of law by a person other than the victim has occurred, and such PHI is not
-        intended to be used against the victim.
-          - 2. The law enforcement official represents that immediate law enforcement
-        activity that depends upon the disclosure would be materially and adversely affected by waiting
-        until the individual is able to agree to the disclosure.
-          - 3. The disclosure is in the best interests of the individual as determined by the
-        DoD covered entity, in the exercise of professional judgment.
-    - (4) Permitted Disclosure: Decedents. A DoD covered entity may disclose PHI about an
-        individual who has died to a law enforcement official for the purpose of alerting law
-        enforcement of the death of the individual if the DoD covered entity has a suspicion that such
-        death may have resulted from criminal conduct.
-    - (5) Permitted Disclosure: Crime on Premises. A DoD covered entity may disclose to a
-        law enforcement official PHI that the DoD covered entity believes in good faith constitutes
-        evidence of criminal conduct that occurred on the premises of the DoD covered entity.
-    - (6) Permitted Disclosure: Reporting Crime in Emergencies.
-      - (a) A covered health care provider providing emergency health care in response to a
-      medical emergency, other than such emergency on the premises of the covered health care
-      provider, may disclose PHI to a law enforcement official if such disclosure appears necessary to
-      alert law enforcement to:
-        - 1. The commission and nature of a crime.
-        - 2. The location of such crime or of the victim(s) of such crime.
-        - 3. The identity, description, and location of the perpetrator of such crime.
-      - (b) If a covered health care provider believes that the medical emergency described
-      in Paragraph 4.4.f.(6)(a) is the result of abuse, neglect, or domestic violence of the individual in
-      need of emergency health care, Paragraph 4.4.f.(6)(a) does not apply and any disclosure to a law
-      enforcement official for law enforcement purposes is subject to Paragraph 4.4.c.
-    - (7) Permitted Disclosure: Sexual Assault and Domestic Abuse Cases. In cases in which
-    a victim of sexual assault or domestic abuse elects restricted reporting under DoDI 6495.02 or
-    DoDI 6400.06, the limitations on disclosure under these issuances apply."
+  2) "Improve the Delivery of Mental Health Care. Mental health is vital to every
+Service member' s well-being and to the overall readiness of our force . It is our
+solemn obligation to provide the best possible mental health care to our men and
+women in uniform. In March 2023 , I approved the immediate implementation of 10
+actions related to the SPRIRC recommendations for improving access to behavioral
+and mental health care. To advance this line of effort, the Department will begin
+implementing 24 additional SPRIRC recommendations to improve mental health
+service delivery and achieve the following priorities:
+    - Expand training programs and actions to better recruit, support, and retain
+mental health providers.
+    - Remove obstacles to improve coordination of care.
+    - Eliminate barriers to provider pay equity, timely hiring, and efficient
+on boarding.
+    - Increase appointment availability by revising mental health staffing models to
+ensure that mental health clinics have the administrative and case management
+support they need.
+  3) Address Stigma and Other Barriers to Care. The Department has taken important
+actions to eliminate the stubborn stigma around asking for help, and we have helped
+reduce barriers to seeking mental health care. The Office of the Under Secretary of
+Defense for Personnel and Readiness (USD(P&R)) has conducted a comprehensive
+review and revision of policies across the Department, working to eliminate
+stigmatizing language. Additionally, the Department has issued guidance to
+implement the Brandon Act, which allows Service members to self-initiate referrals
+for mental health evaluations and seeks to promote a culture of reaching out for help.
+To continue these efforts, the Department will begin implementing 14 approved
+SPRIRC recommendations to advance the following objectives:
+    - Expand availability of confidential services, including non-medical
+counseling for suicide prevention.
+    - Increase mental health services in primary care.
+    - Expand availability of tele-health care and other digital tools.
+    - Provide additional resources to support unit leaders in reducing stigma.
+  4) Revise Suicide Prevention Training. The Department is undertaking a foundational
+shift toward a comprehensive integrated prevention strategy, applying a public-health
+approach to the prevention of harmful behaviors. This will help create healthier, more
+supportive environments by enhancing protections for our communities and
+eliminating risk factors. The implementation of the approved recommendations of the
+Independent Review Commission on Sexual Assault in the Military, specifically the
+stand-up of the Integrated Primary Prevention Workforce, has been a core part of this
+shift, as have our efforts to better educate Department leaders about prevention and
+give them greater visibility into the data that can help them assess command climate.
+Looking ahead, we need to build on the lessons learned and revise suicide prevention
+training to focus more directly on stressors and risk factors that Service members face
+daily. To deepen our work in this area, we will begin implementing 20 approved
+SPRIRC recommendations to modernize the Department's suicide prevention and
+postvention training. The Defense Suicide Prevention Office will develop the core
+curriculum for this revised training, which will allow for tailoring to meet the unique
+needs of each of the Military Services, to include the National Guard and Reserve.
+These revisions are intended to:
+    - Modernize content, delivery, and dosage of suicide prevention training.
+    - Train behavioral health technicians in evidence-based practices.
+    - Integrate leaders at all levels into suicide prevention training.
+    - Centralize the core suicide prevention training curriculum."
 
 
 # Washington Headquarters Services
