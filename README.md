@@ -130,11 +130,7 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 - [Link 16](https://www.rand.org/pubs/commentary/2014/10/compromised-confidentiality-in-the-military-is-harmful.html)
 - [Link 17](https://www.researchgate.net/publication/329801888_Dual_loyalty_in_military_medical_ethics_A_moral_dilemma_or_a_test_of_integrity)
 - [Link 18](https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession)
-- [Compromised Confidentiality Is Harmful: Military Owes Proof to the Contrary
-
-    C. Engel
-    Published 29 December 2014
-    Psychology, Law, Political Science](https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c)
+- [Compromised Confidentiality Is Harmful: Military Owes Proof to the Contrary | C. Engel | Published 29 December 2014 | Psychology, Law, Political Science](https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c)
 
 
 World Medical Association standards
