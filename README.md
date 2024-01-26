@@ -570,6 +570,14 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 
 # FOIA
+
+## Department of Defense
+- [Office of the Secretary of Defense, Joint Staff, and Defense Logistics Agency FOIA portal](https://pal.whs.mil/app/Home.aspx)
+- [DOD FOIA Handbook](https://open.defense.gov/Transparency/FOIA/FOIA-Handbook/)
+- [DOD Online FOIA Submission form](https://pal.whs.mil/app/MainPage.aspx)
+- [Office of the Secretary of Defense and Joint Staff Freedom of Information Act Requester Service Center](https://www.esd.whs.mil/FOID/)
+- [DOD Inspector General - mostly for if you've actually filed complaints through their hotline](https://www.dodig.mil/FOIA/)
+
 ## Army
 - [Army FOIA requests](https://www.hrc.army.mil/content/Freedom%20of%20Information%20and%20Privacy%20Act%20Requests)
 
@@ -582,6 +590,8 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
     - Washington, DC 20350-1200
 
 ## Air Force
+- [Air Force FOIA](https://efoia.cce.af.mil/)
+- [Air Force FOIA Handbook](https://www.compliance.af.mil/Library/Handbook/)
 
 ## Marine Corps
 - [United States Marine Corps Freedom of Information Act](https://www.hqmc.marines.mil/Agencies/USMC-FOIA/)
@@ -598,7 +608,44 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 # More DHA stuff
 - [DHA Publications](https://health.mil/Reference-Center/DHA-Publications)
 - [Healthcare Resolutions, Disclosure, Clinical Conflict Management and Healthcare Provider (HCP) Resiliency and Support in the Military Health System (MHS)](https://www.health.mil/Reference-Center/DHA-Publications/2019/06/18/DHA-PI-6025-17)
-- 
+
+
+# [Department of Defense Office of Inspector General](https://www.oversight.gov/Inspectors-General/Department-Defense-OIG)
+- The Department of Defense Office of Inspector General was established in 1982. The mission of the DoD OIG, as established by the Inspector General Act of 1978, as amended, (5 U.S.C. Appendix); and implemented by DoD Directive 5106.01, "Inspector General of the Department of Defense," is to serve as an independent and objective office in DoD to:
+
+    - a) conduct, supervise, monitor, and initiate audits, evaluations, and investigations relating to programs and operations of the Department of Defense,
+
+    - b) provide leadership and coordination and recommend policies for activities designed to promote economy, efficiency, and effectiveness in the administration of, and to prevent and detect fraud and abuse in, such programs and operations,
+
+    - c) provide a means for keeping the Secretary of Defense and the Congress fully and currently informed about problems and deficiencies relating to the administration of such programs and operations and the necessity for and progress of corrective action
+
+  - [OIG Website URL: http://www.dodig.mil](http://www.dodig.mil)
+  - Agencies Overseen:
+  - Department of Defense, Abbreviation: DoD
+
+| What to Report to the OIG Hotline. Examples of violations to report to the DoD Hotline: | Certain matters may be better resolved through other channels, instead of the DoD Hotline.
+ The following matters are NOT generally investigated by the Department of Defense Inspector General. What Not to report to the OIG Hotline: |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Threats to homeland security | ------ |
+
+| Health and safety issues | 911 Emergencies |
+| Trafficking in persons | Minor incidents of time and attendance abuse |
+| Leaks of classified information | Minor incidents of theft of Government resources |
+| Bribery and acceptance of gratuities | Minor incidents of misuse of Government vehicles |
+| Counterfeit or substandard parts | Department of Defense job opportunities |
+| Whistleblower Reprisals | DoD Incentive Awards Program suggestions |
+| Conflicts of interest | Personnel matters involving requests for individual relief |
+| Contract and procurement fraud | Employment related grievances and complaints against management officials |
+| Computer crimes | Complaints of EEO discrimination |
+| Health care fraud | Matters relating to the Uniform Code of Military Justice to include Article 15 appeals |
+| Travel or purchase card fraud | Tricare complaints |
+| Cost/labor mischarging | DoD Contractor Compliance and Disclosure requirements |
+| ---- | Locating a military service member |
+| ---- | Obtaining military records |
+| ---- | Child and spousal support matters |
+| ---- | Pay and allowance matters |
+| ---- | Deceptive lending practices and other consumer fraud |
+
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHM52J47"
