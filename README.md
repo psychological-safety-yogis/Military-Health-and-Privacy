@@ -84,7 +84,7 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 - [Page 181](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=181)
 - [Page 182](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=182)
 - [Link 5](https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320201/adc-article-31-rights/)
-- [Link 6](https://www.jba.af.mil/Portals/38/documents/Units/Legal-Office/ADC/Mental Health Eval-2020.pdf?ver=qPDijTkUEcV9bpdN1Q-l9Q%3D%3D&timestamp=1604609153020#page=3)
+- [Link 6](https://www.jba.af.mil/Portals/38/documents/Units/Legal-Office/ADC/Mental%20Health%20Eval-2020.pdf?ver=qPDijTkUEcV9bpdN1Q-l9Q%3D%3D&timestamp=1604609153020#page=3)
 - [Link 7](https://www.ramstein.af.mil/News/Commentaries/Display/Article/305718/silence-is-golden-article-31-rights-explained/)
 
 Marine Corps
