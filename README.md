@@ -1,3 +1,11 @@
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WHM52J47');</script>
+<!-- End Google Tag Manager -->
+
 <br/>
 <div align="center"><img src="./images/fault.gif"></div>
 <br/>
@@ -418,3 +426,8 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [HIPAA Journal, HIPAA Exceptions, Posted By Steve Alder on Dec 1, 2023](https://www.hipaajournal.com/hipaa-exceptions/)
 - [Justia, Involuntary Confessions by Criminal Suspects & Legal Concerns](https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions/)
 - [Military Justice Attorneys on rights to counsel](https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/)
+
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHM52J47"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
