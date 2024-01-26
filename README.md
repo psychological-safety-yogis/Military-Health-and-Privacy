@@ -75,7 +75,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [DHA Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#dha-inspector-general-hotline)
 - [Department of Defense Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#department-of-defense-office-of-inspector-general)
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 # PREAMBLE: A guide to Github READMEs, submitting changes, and making your own. 
 
@@ -106,7 +106,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
   - [Base repository](https://github.com/psychological-safety-yogis/awesome-comfort-pain-relief/edit/live/README.md)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 # Section A: Top-level
 
@@ -132,7 +132,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Public Health Service,  patient information. 42 CFR Ch. I § 2.23 (10–1–22 Edition), Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 ## Defense.gov
 
@@ -201,7 +201,7 @@ These revisions are intended to:
     - Centralize the core suicide prevention training curriculum."
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 ## Washington Headquarters Services (Defense Department documents and publications)
 
@@ -303,7 +303,7 @@ missing person, if:
 [The Summary Court Martial - Special Evidence Problem - Confessions](https://apps.dtic.mil/sti/tr/pdf/ADA384974.pdf#page=258)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 ## DHA
 - [DHA Publications](https://health.mil/Reference-Center/DHA-Publications)
@@ -371,7 +371,7 @@ misuse patient records.
 - [Mental Health Appointments](https://www.tricare.mil/CoveredServices/Mental/MentalHealthAppts)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 # Section B: Military departments on-down
 
@@ -451,7 +451,7 @@ suspect has been taken into custody or otherwise deprived of his freedom of acti
 - [Office of Operational Medicine and Quality Improvement Division (CG-1K21)](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Health-Services-CG-112/Operational-Medicine-and-Quality-Improvement-Division/HIPAA-and-Health-Information-Privacy/)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 ## Section C: meta and Scholarly Research 
 
@@ -468,7 +468,7 @@ suspect has been taken into custody or otherwise deprived of his freedom of acti
 - [OSINT Combine: Mostly good for their bookmarks stack.](https://www.osintcombine.com/free-tools)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 # Scholarly sources
 
@@ -527,7 +527,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Military Justice Attorneys on rights to counsel](https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 # SECTION D - Large Language Model Tools to aid you in your journey
 
@@ -560,7 +560,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Create with Vertex AI](https://console.cloud.google.com/vertex-ai/generative/multimodal/create/)
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 # SECTION E - Claims, Accountability, and Freedome of Information
 
@@ -602,7 +602,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Coast Guard Freedom of Information](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Engineering-Logistics-CG-4-/FOIA/)
 - [DHS How-to](https://www.dhs.gov/foia)
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 <br/>
 
@@ -655,7 +655,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 ## [Coast Guard claims](https://www.uscg.mil/Resources/Legal/LSC/LSC-Claims-Division/)
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 
 
@@ -700,7 +700,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 
 
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+**[`^        back to top        ^`](#awesome-military-health-and-privacy-resources)**
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHM52J47"
