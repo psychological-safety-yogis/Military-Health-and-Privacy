@@ -103,6 +103,9 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 ## [Awesome Comfort and Pain Relief](https://psychological-safety-yogis.github.io/awesome-comfort-pain-relief/)
   - [Base repository](https://github.com/psychological-safety-yogis/awesome-comfort-pain-relief/edit/live/README.md)
 
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
 # Section A: Top-level
 
 ## Congress
