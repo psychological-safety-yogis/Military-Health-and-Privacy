@@ -286,7 +286,7 @@ misuse patient records.
 
 - [SELF-INITIATED REFERRAL PROCESS FOR MENTAL HEALTH EVALUATIONS OF MARINES – THE BRANDON ACT | 9/18/2023 | MARADMINS Number: 463/23](https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/)
 - [Military Judges' Benchbook, Self encrimination raised, Page 770](https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other%20Important%20Docs/Military_Judges_Benchbook_\(Jul_03\)\(with_updates_through_Feb_08\).pdf#page=770)
-- [Page 14 | The Law of Privileges | 2-4 Rev. 1/06 | EV 2.7. Psychotherapist-Patient Privilege – Mil.R.Evd. 513](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
+- [HANDBOOK FOR MILITARY JUSTICE AND CIVIL LAW, 2006 | Page 14 | The Law of Privileges | 2-4 Rev. 1/06 | EV 2.7. Psychotherapist-Patient Privilege – Mil.R.Evd. 513](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
   - Mil.R.Evd. 513 established this privilege in the military. A patient has the privilege to prevent the disclosure of any
   confidential communications made between the patient and a psychotherapist, or an assistant to the psychotherapist,
   if the communication was made to facilitate diagnosis or treatment of the patient’s mental health condition. Patient
@@ -314,32 +314,38 @@ misuse patient records.
   - It is highly recommended that when a legal officer identifies communications that are privileged under this rule, he
     or she seek the assistance of a judge advocate before applying any of the exceptions to force the disclosure of the
     communication in question.
-- [Page 254](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=254)
-- [Page 345](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=345)
-- [Page 46](https://www.trngcmd.marines.mil/Portals/207/Docs/eoa/jagmaninveshandbook.pdf#page=46)
+- [Page 254, Summary Courts Martial, PR 13.10. APPENDIX D - ADDENDA TO TRIAL GUIDE - SPECIAL EVIDENCE PROBLEM --
+CONFESSIONS](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=254)
+- [Glossary of words and phrases, common abbreviations, Page 345](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=345)
+  - CUSTODIAL INTERROGATION - questioning initiated by law enforcement officers or others in authority after a
+suspect has been taken into custody or otherwise deprived of his freedom of action in any significant way.
+  - CUSTODY - that restraint of free movement which is imposed by lawful apprehension.
+- [Waiver of Rights, Page 46, JAGMAN Investigations Handbook](https://www.trngcmd.marines.mil/Portals/207/Docs/eoa/jagmaninveshandbook.pdf#page=46)
 
 # Coast Guard
 
-- [Link 1](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Health-Services-CG-112/Operational-Medicine-and-Quality-Improvement-Division/HIPAA-and-Health-Information-Privacy/)
+- [Office of Operational Medicine and Quality Improvement Division (CG-1K21)](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Health-Services-CG-112/Operational-Medicine-and-Quality-Improvement-Division/HIPAA-and-Health-Information-Privacy/)
 
 # Google Search
 
-- [Link 1](https://www.google.com/search?q=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&sca_esv=601425548&sxsrf=ACQVn09_KA0opBbNPY7v3jxcaKYB_Bsmew%3A1706198280117&ei=CIWyZdu9BoyhptQP9q6vkAM&ved=0ahUKEwjb4Zvz8_iDAxWMkIkEHXbXCzIQ4dUDCBA&uact=5&oq=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&gs_lp=Egxnd3Mtd2l6LXNlcnAiTSJtZW50YWwgaGVhbHRoIiBBTkQgImN1c3RvZGlhbCIgQU5EICJtaWxpdGFyeSIgQU5EICJtaXJhbmRhIiBPUiAiYXJ0aWNsZSAzMSIgSNJEUABYt0BwAHgBkAEAmAGxAqABgBeqAQgwLjE5LjAuMbgBA8gBAPgBAcICBRAhGKABwgIFECEYqwLCAggQABiABBiiBOIDBBgAIEE&sclient=gws-wiz-serp)
+- [Google search: ""mental health" AND "custodial" AND "military" AND "miranda" OR "article 31"](https://www.google.com/search?q=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&sca_esv=601425548&sxsrf=ACQVn09_KA0opBbNPY7v3jxcaKYB_Bsmew%3A1706198280117&ei=CIWyZdu9BoyhptQP9q6vkAM&ved=0ahUKEwjb4Zvz8_iDAxWMkIkEHXbXCzIQ4dUDCBA&uact=5&oq=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&gs_lp=Egxnd3Mtd2l6LXNlcnAiTSJtZW50YWwgaGVhbHRoIiBBTkQgImN1c3RvZGlhbCIgQU5EICJtaWxpdGFyeSIgQU5EICJtaXJhbmRhIiBPUiAiYXJ0aWNsZSAzMSIgSNJEUABYt0BwAHgBkAEAmAGxAqABgBeqAQgwLjE5LjAuMbgBA8gBAPgBAcICBRAhGKABwgIFECEYqwLCAggQABiABBiiBOIDBBgAIEE&sclient=gws-wiz-serp)
 
-# National Institutes of Health
-
-- [Link 1](https://pubmed.ncbi.nlm.nih.gov/17066764/)
-- [Link 2](https://pubmed.ncbi.nlm.nih.gov/30573701/)
-- [Link 3](https://pubmed.ncbi.nlm.nih.gov/30904832/)
 
 # Scholarly sources
+
+### National Institutes of Health
+- [ Dual loyalty among military health professionals: human rights and ethics in times of armed conflict | Leslie London, Leonard S Rubenstein, Laurel Baldwin-Ragaven, Adriaan Van Es](https://pubmed.ncbi.nlm.nih.gov/17066764/)
+- [ Dual loyalty in military medical ethics: a moral dilemma or a test of integrity? | Peter Olsthoorn](https://pubmed.ncbi.nlm.nih.gov/30573701/)
+- [ Legal framework versus moral framework: military physicians and nurses coping with practical and ethical dilemmas | 
+Francesca Baukje Hooft](https://pubmed.ncbi.nlm.nih.gov/30904832/)
 
 - [The Dual Roles of Military Psychiatrists: Ethical Considerations
 of the HIPAA Military Command Exception
 Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
-- [Link 1](https://academic.oup.com/milmed/article/184/11-12/212/5574897)
-- [Link 2](https://academic.oup.com/milmed/article/185/5-6/e527/5803039)
-- [Link 3](https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
+- [Communicating With Leadership: Behavioral Health and HIPAA in the Field | Christopher G Shank, Miguel M Alampay](https://academic.oup.com/milmed/article/184/11-12/212/5574897)
+- [A Code of Ethics for Military Medicine, Richard Thomas, Frederick Lough](https://academic.oup.com/milmed/article/185/5-6/e527/5803039)
+- [Military Medical Ethics: Privacy, Military Necessity, and the Dual Roles of Military Psychiatrists
+Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
 - [Link 4](https://doi.org/10.17226/12478)
 - [Link 5](https://nap.nationalacademies.org/catalog/12478/military-medical-ethics-issues-regarding-dual-loyalties-workshop-summary)
 - [Link 6](https://nap.nationalacademies.org/read/11434/chapter/6#51)
