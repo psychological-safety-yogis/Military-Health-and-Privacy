@@ -30,28 +30,32 @@
 - [Prevent Suicide in the Military](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
 
 
-Washington Headquarters Services
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602518p.pdf?ver=2019-03-13-125803-017
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=12
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=2
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=3
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=6
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25
-https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=42
+# Washington Headquarters Services
 
-Defense Technical Information Center
-https://apps.dtic.mil/sti/tr/pdf/ADA384974.pdf#page=258
+- [Link 1](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613)
+- [Link 2](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf)
+- [Link 3](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602518p.pdf?ver=2019-03-13-125803-017)
+- [Page 12](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=12)
+- [Page 2](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=2)
+- [Link 4](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf)
+- [Page 3](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=3)
+- [Page 6](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=6)
+- [Link 5](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717)
+- [Page 25](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25)
+- [Page 42](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=42)
 
-DHA
-https://health.mil/Reference-Center/Fact-Sheets/2022/01/05/Info-Paper-Military-Command-Exception-and-Disclosing-PHI-of-Armed-Forces-Personnel
-https://www.health.mil/Military-Health-Topics/Privacy-and-Civil-Liberties/HIPAA-Compliance-within-the-MHS/Military-Command-Exception
-https://www.health.mil/News/Dvids-Articles/2023/05/31/news445861
-https://www.health.mil/News/Dvids-Articles/2023/12/04/news458878
-https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf
+# Defense Technical Information Center
+
+- [Link 1](https://apps.dtic.mil/sti/tr/pdf/ADA384974.pdf#page=258)
+
+# DHA
+
+- [Info Paper](https://health.mil/Reference-Center/Fact-Sheets/2022/01/05/Info-Paper-Military-Command-Exception-and-Disclosing-PHI-of-Armed-Forces-Personnel)
+- [Military Command Exception](https://www.health.mil/Military-Health-Topics/Privacy-and-Civil-Liberties/HIPAA-Compliance-within-the-MHS/Military-Command-Exception)
+- [News Article 1](https://www.health.mil/News/Dvids-Articles/2023/05/31/news445861)
+- [News Article 2](https://www.health.mil/News/Dvids-Articles/2023/12/04/news458878)
+- [S01 Presentation](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
+
 
 Army		
 https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN31271-AR_27-10-001-WEB-2.pdf
