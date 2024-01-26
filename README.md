@@ -54,8 +54,8 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
  - [FY2024 NDAA: Military Mental Health Workforce Provisions Updated January 23, 2024](https://crsreports.congress.gov/product/pdf/IN/IN12268)
  - [United States Code (USC) - House.gov](https://uscode.house.gov/)
- - [10 USC 831: Art. 31. Compulsory self-incrimination prohibited | Title 10 Section 831 Edition Preliminary - USC - House.gov](https://uscode.house.gov/view.xhtml?req=\(title:10%20section:831%20edition:prelim\)%20OR%20\(granuleid:USC-prelim-title10-section831\)&f=treesort&edition=prelim&num=0&jumpTo=true)
- - [10 USC 831: Art. 31. Compulsory self-incrimination prohibited | Statutes at Large, Volume 64 - House.gov](https://uscode.house.gov/statviewer.htm?volume=64&page=118)
+ - [10 USC 831: Art. 31. Compulsory self-incrimination prohibited - Title 10 Section 831 Edition Preliminary - USC - House.gov](https://uscode.house.gov/view.xhtml?req=\(title:10%20section:831%20edition:prelim\)%20OR%20\(granuleid:USC-prelim-title10-section831\)&f=treesort&edition=prelim&num=0&jumpTo=true)
+ - [10 USC 831: Art. 31. Compulsory self-incrimination prohibited - Statutes at Large, Volume 64 - House.gov](https://uscode.house.gov/statviewer.htm?volume=64&page=118)
 
 
 # Code of Federal Regulations
@@ -140,17 +140,17 @@ These revisions are intended to:
 
 # Washington Headquarters Services
 
-- [Comprehensive Health Surveillance | DODD NUMBER 6490.02E February 8, 2012 Incorporating Change 2, August 28, 2017 | USD P&R](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613)
+- [Comprehensive Health Surveillance - DODD NUMBER 6490.02E February 8, 2012 Incorporating Change 2, August 28, 2017 - USD P&R](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613)
 - [DOD INSTRUCTION 6025.13 MEDICAL QUALITY ASSURANCE AND CLINICAL QUALITY MANAGEMENT IN THE MILITARY HEALTH SYSTEM](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf)
 - [DOD INSTRUCTION 6025.18 HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE COMPLIANCE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602518p.pdf?ver=2019-03-13-125803-017)
-- [Mental Health Evaluations of Members of the Military Services, Page 12 | NUMBER 6490.04 March 4, 2013 Incorporating Change 1, Effective April 22, 2020](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=12)
-- [Mental Health Evaluations of Members of the Military Services, Page 2 | NUMBER 6490.04 March 4, 2013 Incorporating Change 1, Effective April 22, 2020](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=2)
+- [Mental Health Evaluations of Members of the Military Services, Page 12 - NUMBER 6490.04 March 4, 2013 Incorporating Change 1, Effective April 22, 2020](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=12)
+- [Mental Health Evaluations of Members of the Military Services, Page 2 - NUMBER 6490.04 March 4, 2013 Incorporating Change 1, Effective April 22, 2020](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=2)
 - [DOD INSTRUCTION 6490.08 COMMAND NOTIFICATION REQUIREMENTS TO DISPEL STIGMAS IN PROVIDING MENTAL HEALTH CARE TO SERVICE MEMBERS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf)
   - [Page 3, DOD INSTRUCTION 6490.08 COMMAND NOTIFICATION REQUIREMENTS TO DISPEL STIGMAS IN PROVIDING MENTAL HEALTH CARE TO SERVICE MEMBERS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=3)
   - [Page 6, DOD INSTRUCTION 6490.08 COMMAND NOTIFICATION REQUIREMENTS TO DISPEL STIGMAS IN PROVIDING MENTAL HEALTH CARE TO SERVICE MEMBERS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=6)
 - [DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717)
   - [Page 25, SECTION 4. USES AND DISCLOSURES OF PHI, 4.1. GENERAL RULES ON USES OR DISCLOSURES OF PHI. Standard: Permitted and Prohibited Uses and Disclosures. DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25)
-- [Page 41, Permitted Disclosures: Limited Information for Identification and Location Purposes | DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=41)
+- [Page 41, Permitted Disclosures: Limited Information for Identification and Location Purposes - DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=41)
 
   - f) "Standard: Disclosures for Law Enforcement Purposes. A DoD covered entity may
 disclose PHI for a law enforcement purpose to a law enforcement official if the conditions in
@@ -291,7 +291,7 @@ misuse patient records.
 - [Mental Health Resources](https://www.health.mil/Military-Health-Topics/Mental-Health/Resources)
 - [Suicide Prevention - Connect to Protect](https://www.health.mil/Military-Health-Topics/MHS-Toolkits/Toolkits/Mental-Health/Suicide-Prevention)
 - [Mental Health Toolkit](https://www.health.mil/Military-Health-Topics/MHS-Toolkits/Toolkits/Mental-Health)
-- [Psychological Health Resource Center | 24/7](https://www.health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Psychological-Health-Resource-Center)
+- [Psychological Health Resource Center - 24/7](https://www.health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Psychological-Health-Resource-Center)
   - [Psychological Health Resource Center (PHRC) Live ChatPsychological Health Resource Center Live ChatPsychological Health Resource Center (PHRC) Live Chat - Visit the 24/7 PHRC Live Chat to speak directly with a trained psychological health resource consultant. Conversations are free and confidential.](https://home-c72.niceincontact.com/incontact/chatclient/chatclient.aspx?poc=980d09d5-c178-4872-b2e5-4fcfbec6dec8&bu=4599581)
 - [Real Warriors Campaign](https://www.health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign)
 - [inTransition](https://www.health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/inTransition)
@@ -336,9 +336,9 @@ misuse patient records.
 
 # Marine Corps
 
-- [SELF-INITIATED REFERRAL PROCESS FOR MENTAL HEALTH EVALUATIONS OF MARINES – THE BRANDON ACT | 9/18/2023 | MARADMINS Number: 463/23](https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/)
+- [SELF-INITIATED REFERRAL PROCESS FOR MENTAL HEALTH EVALUATIONS OF MARINES – THE BRANDON ACT - 9/18/2023 - MARADMINS Number: 463/23](https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/)
 - [Military Judges' Benchbook, Self encrimination raised, Page 770](https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other%20Important%20Docs/Military_Judges_Benchbook_\(Jul_03\)\(with_updates_through_Feb_08\).pdf#page=770)
-- [HANDBOOK FOR MILITARY JUSTICE AND CIVIL LAW, 2006 | Page 14 | The Law of Privileges | 2-4 Rev. 1/06 | EV 2.7. Psychotherapist-Patient Privilege – Mil.R.Evd. 513](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
+- [HANDBOOK FOR MILITARY JUSTICE AND CIVIL LAW, 2006 - Page 14 - The Law of Privileges - 2-4 Rev. 1/06 - EV 2.7. Psychotherapist-Patient Privilege – Mil.R.Evd. 513](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
   - Mil.R.Evd. 513 established this privilege in the military. A patient has the privilege to prevent the disclosure of any
   confidential communications made between the patient and a psychotherapist, or an assistant to the psychotherapist,
   if the communication was made to facilitate diagnosis or treatment of the patient’s mental health condition. Patient
@@ -386,15 +386,15 @@ suspect has been taken into custody or otherwise deprived of his freedom of acti
 # Scholarly sources
 
 ### National Institutes of Health
-- [ Dual loyalty among military health professionals: human rights and ethics in times of armed conflict | Leslie London, Leonard S Rubenstein, Laurel Baldwin-Ragaven, Adriaan Van Es](https://pubmed.ncbi.nlm.nih.gov/17066764/)
-- [ Dual loyalty in military medical ethics: a moral dilemma or a test of integrity? | Peter Olsthoorn](https://pubmed.ncbi.nlm.nih.gov/30573701/)
-- [ Legal framework versus moral framework: military physicians and nurses coping with practical and ethical dilemmas | 
+- [ Dual loyalty among military health professionals: human rights and ethics in times of armed conflict - Leslie London, Leonard S Rubenstein, Laurel Baldwin-Ragaven, Adriaan Van Es](https://pubmed.ncbi.nlm.nih.gov/17066764/)
+- [ Dual loyalty in military medical ethics: a moral dilemma or a test of integrity? - Peter Olsthoorn](https://pubmed.ncbi.nlm.nih.gov/30573701/)
+- [ Legal framework versus moral framework: military physicians and nurses coping with practical and ethical dilemmas - 
 Francesca Baukje Hooft](https://pubmed.ncbi.nlm.nih.gov/30904832/)
 
 - [The Dual Roles of Military Psychiatrists: Ethical Considerations
 of the HIPAA Military Command Exception
 Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
-- [Communicating With Leadership: Behavioral Health and HIPAA in the Field | Christopher G Shank, Miguel M Alampay](https://academic.oup.com/milmed/article/184/11-12/212/5574897)
+- [Communicating With Leadership: Behavioral Health and HIPAA in the Field - Christopher G Shank, Miguel M Alampay](https://academic.oup.com/milmed/article/184/11-12/212/5574897)
 - [A Code of Ethics for Military Medicine, Richard Thomas, Frederick Lough](https://academic.oup.com/milmed/article/185/5-6/e527/5803039)
 - [Military Medical Ethics: Privacy, Military Necessity, and the Dual Roles of Military Psychiatrists
 Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
@@ -404,7 +404,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://ajp.psychiatryonline.org/d
   - [other link](https://nap.nationalacademies.org/catalog/12478/military-medical-ethics-issues-regarding-dual-loyalties-workshop-summary)
 - [Risk, rights and deservedness: Navigating the tensions of Gladue, Fetal Alcohol Spectrum Disorder and settler colonialism in Canadian courts
 Jane Dickson, Michelle Stewart](https://onlinelibrary.wiley.com/doi/10.1002/bsl.2536)
-- [Dual Loyalties in Military Medical Care – Between Ethics and Effectiveness | Peter Olsthoorn, Myriame Bollen & Robert Beeres](https://philarchive.org/archive/OLSDLI)
+- [Dual Loyalties in Military Medical Care – Between Ethics and Effectiveness - Peter Olsthoorn, Myriame Bollen & Robert Beeres](https://philarchive.org/archive/OLSDLI)
 - [ Dual loyalty in military medical ethics: a moral dilemma or a test of integrity? Peter Olsthoorn ](https://philarchive.org/rec/OLSDLI-2)
   - [Dual loyalty in military medical ethics: a moral dilemma or a test of integrity?](https://militaryhealth.bmj.com/content/165/4/282)
 - [Military Medical Ethics: Privacy, Military Necessity, and the Dual Roles of Military Psychiatrists
@@ -413,9 +413,9 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Dual Loyalty among Military Health Professionals: Human Rights and Ethics in Times of Armed Conflict](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/dual-loyalty-among-military-health-professionals-human-rights-and-ethics-in-times-of-armed-conflict/A9AF365BAD5F359E076A2D19A2199936)
 - [Teaching Military Medical Ethics: Another Look at Dual Loyalty and Triage](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/teaching-military-medical-ethics-another-look-at-dual-loyalty-and-triage/62B255DE712E33900FCD62D9693C7880)
 - [Compromised Confidentiality in the Military Is Harmful, Charles C. Engel](https://www.rand.org/pubs/commentary/2014/10/compromised-confidentiality-in-the-military-is-harmful.html)
-- [Dual loyalty in military medical ethics: A moral dilemma or a test of integrity? July 2019 | Journal of the Royal Army Medical Corps | Peter Olsthoorn, Ministry of Defense, Netherlands](https://www.researchgate.net/publication/329801888_Dual_loyalty_in_military_medical_ethics_A_moral_dilemma_or_a_test_of_integrity)
-- [Medical Ethics for the Military Profession | October 2021 | Revista Científica General José María Córdova](https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession)
-- [Compromised Confidentiality Is Harmful: Military Owes Proof to the Contrary | C. Engel | Published 29 December 2014 | Psychology, Law, Political Science](https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c)
+- [Dual loyalty in military medical ethics: A moral dilemma or a test of integrity? July 2019 - Journal of the Royal Army Medical Corps - Peter Olsthoorn, Ministry of Defense, Netherlands](https://www.researchgate.net/publication/329801888_Dual_loyalty_in_military_medical_ethics_A_moral_dilemma_or_a_test_of_integrity)
+- [Medical Ethics for the Military Profession - October 2021 - Revista Científica General José María Córdova](https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession)
+- [Compromised Confidentiality Is Harmful: Military Owes Proof to the Contrary - C. Engel - Published 29 December 2014 - Psychology, Law, Political Science](https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c)
 
 # World Medical Association standards
 
@@ -428,8 +428,8 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 # Other .org
 
 - [Medicine’s social contract with humanity](https://www.ama-assn.org/delivering-care/public-health/ama-declaration-professional-responsibility)
-- [CRIMINAL JUSTICE STANDARDS ON MENTAL HEALTH | August 8, 2016 | ABA Criminal Justice Mental Health Standards](https://www.americanbar.org/content/dam/aba/publications/criminal_justice_standards/mental_health_standards_2016.authcheckdam.pdf)
-- [Patient Rights, Fitness and Suitability for Service, page 12 | DODI 6490.04, 4 Mar 2013, Mental Health Evaluations of Members of the Military Services](https://deploymentpsych.org/sites/default/files/military_culture_links/6490.04%20Mental%20Health%20Evaluations%20of%20Members%20of%20the%20Military%20Services.pdf#page=12)
+- [CRIMINAL JUSTICE STANDARDS ON MENTAL HEALTH - August 8, 2016 - ABA Criminal Justice Mental Health Standards](https://www.americanbar.org/content/dam/aba/publications/criminal_justice_standards/mental_health_standards_2016.authcheckdam.pdf)
+- [Patient Rights, Fitness and Suitability for Service, page 12 - DODI 6490.04, 4 Mar 2013, Mental Health Evaluations of Members of the Military Services](https://deploymentpsych.org/sites/default/files/military_culture_links/6490.04%20Mental%20Health%20Evaluations%20of%20Members%20of%20the%20Military%20Services.pdf#page=12)
 
 # Other .com
 
