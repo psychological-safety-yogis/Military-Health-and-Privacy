@@ -58,32 +58,34 @@
 of the HIPAA Military Command Exception
 Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
 
+# Army
 
-Army		
-https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN31271-AR_27-10-001-WEB-2.pdf
-https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN39302-AR_195-2-001-WEB-3.pdf#page=18
-https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN21189_P27_9_FINAL.pdf
-https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r15_6.pdf#page=30
-https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r40_66.pdf
-https://home.army.mil/bliss/about/news/military-command-exception-health-insurance-portability-and-accountability-act
-https://www.jagcnet.army.mil/EBB/
-https://www.jagcnet.army.mil/Sites/jagc.nsf/EE26CE7A9678A67A85257E1300563559/$File/CommandersLegalHandbook.pdf
-https://www.jagcnet.army.mil/Sites/jagc.nsf/EE26CE7A9678A67A85257E1300563559/$File/CommandersLegalHandbook.pdf#page=250
-https://www.jagcnet.army.mil/sites/trialjudiciary.nsf/homeContent.xsp?open&documentId=900756AC675854ED8525804400729CBB
+- [Link 1](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN31271-AR_27-10-001-WEB-2.pdf)
+- [Page 18](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN39302-AR_195-2-001-WEB-3.pdf#page=18)
+- [Link 2](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/ARN21189_P27_9_FINAL.pdf)
+- [Page 30](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r15_6.pdf#page=30)
+- [Link 3](https://armypubs.army.mil/epubs/DR_pubs/DR_a/pdf/web/r40_66.pdf)
+- [Link 4](https://home.army.mil/bliss/about/news/military-command-exception-health-insurance-portability-and-accountability-act)
+- [Link 5](https://www.jagcnet.army.mil/EBB/)
+- [Link 6](https://www.jagcnet.army.mil/Sites/jagc.nsf/EE26CE7A9678A67A85257E1300563559/$File/CommandersLegalHandbook.pdf)
+- [Page 250](https://www.jagcnet.army.mil/Sites/jagc.nsf/EE26CE7A9678A67A85257E1300563559/$File/CommandersLegalHandbook.pdf#page=250)
+- [Link 7](https://www.jagcnet.army.mil/sites/trialjudiciary.nsf/homeContent.xsp?open&documentId=900756AC675854ED8525804400729CBB)
 
-Navy
-https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/LGuide-Index/Command-Evaluations/
+# Navy
 
-Air Force
-https://www.afjag.af.mil/Library/HQ-JAA/OpJAGAFs-2010-2019/
-https://www.afjag.af.mil/LinkClick.aspx?fileticket=QxTvr3M8q88%3d&portalid=77
-https://www.afjag.af.mil/News/Article-Display/Article/443193/senior-leaders-get-a-refresher-on-military-law/
-https://www.afjag.af.mil/Portals/77/documents/AFJAGS/MCL_OSTC_r.pdf
-https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=181
-https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=182
-https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320201/adc-article-31-rights/
-https://www.jba.af.mil/Portals/38/documents/Units/Legal-Office/ADC/Mental Health Eval-2020.pdf?ver=qPDijTkUEcV9bpdN1Q-l9Q%3D%3D&timestamp=1604609153020#page=3
-https://www.ramstein.af.mil/News/Commentaries/Display/Article/305718/silence-is-golden-article-31-rights-explained/
+- [Link 1](https://www.med.navy.mil/Navy-and-Marine-Corps-Force-Health-Protection-Command/Population-Health/Health-Promotion-and-Wellness/LGuide-Index/Command-Evaluations/)
+
+# Air Force
+
+- [Link 1](https://www.afjag.af.mil/Library/HQ-JAA/OpJAGAFs-2010-2019/)
+- [Link 2](https://www.afjag.af.mil/LinkClick.aspx?fileticket=QxTvr3M8q88%3d&portalid=77)
+- [Link 3](https://www.afjag.af.mil/News/Article-Display/Article/443193/senior-leaders-get-a-refresher-on-military-law/)
+- [Link 4](https://www.afjag.af.mil/Portals/77/documents/AFJAGS/MCL_OSTC_r.pdf)
+- [Page 181](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=181)
+- [Page 182](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=182)
+- [Link 5](https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320201/adc-article-31-rights/)
+- [Link 6](https://www.jba.af.mil/Portals/38/documents/Units/Legal-Office/ADC/Mental Health Eval-2020.pdf?ver=qPDijTkUEcV9bpdN1Q-l9Q%3D%3D&timestamp=1604609153020#page=3)
+- [Link 7](https://www.ramstein.af.mil/News/Commentaries/Display/Article/305718/silence-is-golden-article-31-rights-explained/)
 
 Marine Corps
 https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/
