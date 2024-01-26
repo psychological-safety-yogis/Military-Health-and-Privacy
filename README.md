@@ -71,6 +71,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Google Vertex AI](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#google)
 * #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-e---claims-accountability-and-freedome-of-information)
 - [Freedom of Information FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#foia)
+- [Military Department Claims portals](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#military-department-claims-ie-for-malpractice)
 - [DHA Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#dha-inspector-general-hotline)
 - [Department of Defense Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#department-of-defense-office-of-inspector-general)
 
@@ -628,17 +629,34 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 |-|Child and spousal support matters |
 |-|TRICARE complaints|
 
-# Military Department Claims (ie for malpractice)
+
+
+# Military Medical Malpractice claims 
+
+#News
+## [Federal Register Medical Malpractice Claims by Members of the Uniformed Services](https://www.federalregister.gov/documents/2021/06/17/2021-12815/medical-malpractice-claims-by-members-of-the-uniformed-services)
+
+## [Pentagon Raises Cap on Service Members' Medical Malpractice Claims](https://www.military.com/daily-news/2023/10/20/pentagon-raises-cap-service-members-medical-malpractice-claims.html)
+
+## [Troops Can Finally File Medical Malpractice Claims Against the Military. Here's How](https://www.military.com/daily-news/2021/06/16/troops-can-finally-file-medical-malpractice-claims-against-military-heres-how.html)
+
+## [Military Approving 2% of Medical Malpractice Claims Filed by Service Members](https://www.military.com/daily-news/2022/10/26/military-approving-2-of-medical-malpractice-claims-filed-service-members.html)
+
+
+# Claims service portals for each branch
+
+## [Medical Malpractice Claims by Members of the Uniformed Services](https://home.army.mil/bliss/about/news/medical-malpractice-claims-members-uniformed-services#:~:text=Air%20Force%3A%20Claims%20should%20be,4620%20or%20DSN%20612%2D4620)
+
 ## [AFJAG Claims Service Center](https://claims.jag.af.mil/)
 
 ## [Army JAG Claims](https://www.jagcnet.army.mil/Sites/claims.nsf/homeContent.xsp?open&documentId=BF92B85F048E9ED285257ACB0076E24Ef)
 
 ## [Claim Filing Procedures for Medical Malpractice Claims by Navy and Marine Corps Service Members](https://www.jag.navy.mil/legal-services/code-15/ndaa-medical-malpractice/)
 
-## [Medical Malpractice Claims by Members of the Uniformed Services](https://home.army.mil/bliss/about/news/medical-malpractice-claims-members-uniformed-services#:~:text=Air%20Force%3A%20Claims%20should%20be,4620%20or%20DSN%20612%2D4620)
-
+## [Coast Guard claims](https://www.uscg.mil/Resources/Legal/LSC/LSC-Claims-Division/)
 
 **[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
 
 
 
@@ -657,6 +675,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [DOD Inspector General](https://www.dodig.mil/)
 - [DOD IG Hotline](https://www.dodig.mil/Components/Administrative-Investigations/DoD-Hotline/)
 - [Whistleblower Protection](https://www.dodig.mil/Components/Administrative-Investigations/Whistleblower-Reprisal-Investigations/Whistleblower-Protection-Coordinator/)
+
 
 | What to Report to the OIG Hotline. Examples of violations to report to the DoD Hotline: | Certain matters may be better resolved through other channels, instead of the DoD Hotline. The following matters are NOT generally investigated by the Department of Defense Inspector General. What Not to report to the OIG Hotline: |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
