@@ -132,23 +132,25 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 - [Link 18](https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession)
 - [Compromised Confidentiality Is Harmful: Military Owes Proof to the Contrary | C. Engel | Published 29 December 2014 | Psychology, Law, Political Science](https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c)
 
+# World Medical Association standards
 
-World Medical Association standards
-https://www.wma.net/policies-post/wma-declaration-of-tokyo-guidelines-for-physicians-concerning-torture-and-other-cruel-inhuman-or-degrading-treatment-or-punishment-in-relation-to-detention-and-imprisonment/
-https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/
-https://www.wma.net/policies-post/wma-regulations-in-times-of-armed-conflict-and-other-situations-of-violence/
-https://www.wma.net/policies-post/wma-statement-on-the-protection-and-integrity-of-medical-personnel-in-armed-conflicts-and-other-situations-of-violence/
-https://www.wma.net/wp-content/uploads/2019/10/Dual-Loyalty-Cecil-Wilson-.pdf
+- [Link 1](https://www.wma.net/policies-post/wma-declaration-of-tokyo-guidelines-for-physicians-concerning-torture-and-other-cruel-inhuman-or-degrading-treatment-or-punishment-in-relation-to-detention-and-imprisonment/)
+- [Link 2](https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/)
+- [Link 3](https://www.wma.net/policies-post/wma-regulations-in-times-of-armed-conflict-and-other-situations-of-violence/)
+- [Link 4](https://www.wma.net/policies-post/wma-statement-on-the-protection-and-integrity-of-medical-personnel-in-armed-conflicts-and-other-situations-of-violence/)
+- [Link 5](https://www.wma.net/wp-content/uploads/2019/10/Dual-Loyalty-Cecil-Wilson-.pdf)
 
-Other .org
-https://www.ama-assn.org/delivering-care/public-health/ama-declaration-professional-responsibility
-https://www.americanbar.org/content/dam/aba/publications/criminal_justice_standards/mental_health_standards_2016.authcheckdam.pdf
-https://deploymentpsych.org/sites/default/files/military_culture_links/6490.04%20Mental%20Health%20Evaluations%20of%20Members%20of%20the%20Military%20Services.pdf#page=12
+# Other .org
 
-Other .com
-https://militaryhealth.bmj.com/content/165/4/282
-https://www.hipaajournal.com/hipaa-exceptions/
-https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions/
-https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/
-https://onlinelibrary.wiley.com/doi/10.1002/bsl
+- [Link 1](https://www.ama-assn.org/delivering-care/public-health/ama-declaration-professional-responsibility)
+- [Link 2](https://www.americanbar.org/content/dam/aba/publications/criminal_justice_standards/mental_health_standards_2016.authcheckdam.pdf)
+- [Page 12](https://deploymentpsych.org/sites/default/files/military_culture_links/6490.04%20Mental%20Health%20Evaluations%20of%20Members%20of%20the%20Military%20Services.pdf#page=12)
+
+# Other .com
+
+- [Link 1](https://militaryhealth.bmj.com/content/165/4/282)
+- [Link 2](https://www.hipaajournal.com/hipaa-exceptions/)
+- [Link 3](https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions/)
+- [Link 4](https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/)
+- [Link 5](https://onlinelibrary.wiley.com/doi/10.1002/bsl)
 
