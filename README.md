@@ -71,7 +71,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Google Vertex AI](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#google)
 * #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-e---claims-accountability-and-freedome-of-information)
 - [Freedom of Information FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#foia)
-- [Military Department Claims portals](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#military-department-claims-ie-for-malpractice)
+- [Military medical malpractice news and claims portals](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#military-medical-malpractice-claims)
 - [DHA Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#dha-inspector-general-hotline)
 - [Department of Defense Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#department-of-defense-office-of-inspector-general)
 
