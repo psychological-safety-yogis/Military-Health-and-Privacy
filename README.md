@@ -542,6 +542,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
     - The DHA IG Hotline provides a confidential and reliable avenue to report fraud, waste, abuse, and mismanagement. Please review the table below to determine if the DHA IG Hotline is the appropriate channel to address your issue. If you've determined that the DHA Hotline is the appropriate channel to address your issue, please download the DD Form 2949DD Form 2949 and email it to dha.ncr.dir-support.mbx.ig-hotline@health.mil or send it via postal mail to:
 
 | What to Report to the DHA IG Hotline. The following are a few issues that ARE normally appropriate for the DHA IG Hotline. Please review the guidance below prior to submitting a complaint. | What NOT to Report to the DHA IG Hotline. Certain matters may be better resolved through other channels, instead of the DHA IG Hotline. The following is list of matters that are NOT generally investigated by the DHA OIG. Please review the guidance below prior to submitting a complaint. |
+| ------------- | ------------- |
 | Fraud, waste, and abuse | 911 Emergencies |
 | Gross mismanagement | Personnel matters involving requests for individual relief |
 | Procurement or contract fraud |Employment related grievances and complaints against management officials  |
