@@ -73,7 +73,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Claims]()
 - [FOIA]()
 
-**[`^        back to top        ^`](#Military-MH-and-Privacy)**
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
 
 # PREAMBLE: A guide to Github READMEs, submitting changes, and making your own. 
 
