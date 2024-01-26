@@ -99,6 +99,8 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
 # Related Awesome websites
 
+# Section A: Top-level
+
 # Congress
 
  - [FY2024 NDAA: Military Mental Health Workforce Provisions Updated January 23, 2024](https://crsreports.congress.gov/product/pdf/IN/IN12268)
@@ -351,6 +353,7 @@ misuse patient records.
 - [Mental Health Care](https://www.tricare.mil/mentalhealth)
 - [Mental Health Appointments](https://www.tricare.mil/CoveredServices/Mental/MentalHealthAppts)
 
+# Section B: Lower-level
 
 # Army
 
@@ -427,10 +430,19 @@ suspect has been taken into custody or otherwise deprived of his freedom of acti
 
 - [Office of Operational Medicine and Quality Improvement Division (CG-1K21)](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Health-Services-CG-112/Operational-Medicine-and-Quality-Improvement-Division/HIPAA-and-Health-Information-Privacy/)
 
-# Google Search
+# Section C: meta and Scholarly Research 
+
+# Search Engines
 
 - [Google search: ""mental health" AND "custodial" AND "military" AND "miranda" OR "article 31"](https://www.google.com/search?q=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&sca_esv=601425548&sxsrf=ACQVn09_KA0opBbNPY7v3jxcaKYB_Bsmew%3A1706198280117&ei=CIWyZdu9BoyhptQP9q6vkAM&ved=0ahUKEwjb4Zvz8_iDAxWMkIkEHXbXCzIQ4dUDCBA&uact=5&oq=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&gs_lp=Egxnd3Mtd2l6LXNlcnAiTSJtZW50YWwgaGVhbHRoIiBBTkQgImN1c3RvZGlhbCIgQU5EICJtaWxpdGFyeSIgQU5EICJtaXJhbmRhIiBPUiAiYXJ0aWNsZSAzMSIgSNJEUABYt0BwAHgBkAEAmAGxAqABgBeqAQgwLjE5LjAuMbgBA8gBAPgBAcICBRAhGKABwgIFECEYqwLCAggQABiABBiiBOIDBBgAIEE&sclient=gws-wiz-serp)
+- [Excite (yes, the old Excite.com) will return website pages that Google ignores because it still lets you search for URLs and metadata](https://excite.com/)
 
+# Creative research using OSINT: Use with caution and not on Government machines / networks
+
+- [OSINT Framework.  Click on subsections and keep clicking until you've found the search tool you need.](https://osintframework.com/)
+- [MetaOSINT.  Similar to above but cooler looking.  Maybe harder to use though.]{https://metaosint.github.io/chart}
+- [MetaOSINT: Probably the best way to search for and filter open-source research methods](https://metaosint.github.io/table)
+- [OSINT Combine: Mostly good for their bookmarks stack.](https://www.osintcombine.com/free-tools)
 
 # Scholarly sources
 
