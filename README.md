@@ -1,26 +1,5 @@
-<!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-KK3DNSRJ');</script>
-<!-- End Google Tag Manager -->
-
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-123JMST3CT"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-123JMST3CT');
-</script>
-
-
-
 Congress
-https://crsreports.congress.gov/product/pdf/IN/IN12268
+[FY2024 NDAA: Military Mental Health Workforce Provisions Updated January 23, 2024](https://crsreports.congress.gov/product/pdf/IN/IN12268)
 https://uscode.house.gov/
 https://uscode.house.gov/statviewer.htm?volume=64&page=118
 https://uscode.house.gov/view.xhtml?req=(title:10 section:831 edition:prelim) OR (granuleid:USC-prelim-title10-section831)&f=treesort&edition=prelim&num=0&jumpTo=true
@@ -167,8 +146,3 @@ https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions
 https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/
 https://onlinelibrary.wiley.com/doi/10.1002/bsl
 
-
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KK3DNSRJ"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
