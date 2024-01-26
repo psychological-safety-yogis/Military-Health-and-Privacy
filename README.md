@@ -61,15 +61,13 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [World Medical Association Standards](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#world-medical-association-standards)
 - [Other .org's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-org)
 - [Other .com's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-com)
-
 * #### [SECTION D - Large Language Model Tools to aid you in your journey](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-d---large-language-model-tools-to-aid-you-in-your-journey-1)
 - [Phind](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#phindcom)
 - [Poe](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#poe)
 - [OpenAI ChatGPT](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#openai-chatgpt)
+- [Anthropic Claude](https://docs.anthropic.com/claude/reference/getting-started-with-the-api)
 - [Vercel](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#vercel)
 - [Google Vertex AI](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#google)
-
-
 * #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-e---claims-accountability-and-freedome-of-information)
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
   - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
