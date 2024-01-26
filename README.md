@@ -1,4 +1,6 @@
-<div align="center"><img src="./assets/head.jpg"></div>
+<br/>
+<div align="center"><img src="./images/fault.gif"></div>
+<br/>
 
 This page was built using [Github Pages](https://docs.github.com/en/pages/quickstart) and [Github Awesome](https://github.com/sindresorhus/awesome#readme), using [Awesome Data Science](https://awesome-datascience.academic.io/) as a [source](https://github.com/academic/awesome-datascience) template.  Our source repository is [here](https://github.com/psychological-safety-yogis/awesome-psych-safety).  
 
@@ -8,11 +10,6 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 # An awesome open-source list of ways maximize your mental health while feeling your private information is protected.
 
 
-<br/>
-
-<div align="center"><img src="./images/fault.gif"></div>
-
-<br/>
 
 
 # Congress
