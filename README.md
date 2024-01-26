@@ -73,6 +73,8 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Claims]()
 - [FOIA]()
 
+**[`^        back to top        ^`](#Military-MH-and-Privacy/)**
+
 # PREAMBLE: A guide to Github READMEs, submitting changes, and making your own. 
 
 | Github how-to's | Link |
@@ -579,6 +581,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Office of the Secretary of Defense and Joint Staff Freedom of Information Act Requester Service Center](https://www.esd.whs.mil/FOID/)
 - [DOD Inspector General - mostly for if you've actually filed complaints through their hotline](https://www.dodig.mil/FOIA/)
 - [DOD FOIA Transparency](https://open.defense.gov/Transparency/FOIA.aspx)
+- [DHA Healthcare Resolutions, Disclosure, Clinical Conflict Management and Healthcare Provider (HCP) Resiliency and Support in the Military Health System (MHS)](https://www.health.mil/Reference-Center/DHA-Publications/2019/06/18/DHA-PI-6025-17)
 
 ## Army
 - [Army FOIA requests](https://www.hrc.army.mil/content/Freedom%20of%20Information%20and%20Privacy%20Act%20Requests)
