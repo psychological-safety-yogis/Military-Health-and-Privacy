@@ -30,7 +30,7 @@ self-incrimination, Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRem
 - [VICTORY WELLNESS GUIDE, 1st Infantry Division’s and Fort Riley](https://media.defense.gov/2023/Feb/01/2003154024/-1/-1/0/OVW%20Leaders%20Guide-2022-victor.PDF)
 - [26 Sep 2023, New DoD Actions to Prevent Suicide in the Military, Page 2, ](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
 
-- Emphasis on Lines of Effort (LOE) 2, 3, 4:
+- Emphasis on Lines of Efforts (LOE) 2, 3, 4:
 
   2) "Improve the Delivery of Mental Health Care. Mental health is vital to every
 Service member' s well-being and to the overall readiness of our force . It is our
@@ -99,6 +99,7 @@ These revisions are intended to:
 - [DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717)
   - [Page 25, SECTION 4. USES AND DISCLOSURES OF PHI, 4.1. GENERAL RULES ON USES OR DISCLOSURES OF PHI. Standard: Permitted and Prohibited Uses and Disclosures. DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25)
 - [Page 41, Permitted Disclosures: Limited Information for Identification and Location Purposes | DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=41)
+
   - "f. Standard: Disclosures for Law Enforcement Purposes. A DoD covered entity may
 disclose PHI for a law enforcement purpose to a law enforcement official if the conditions in
 Paragraphs 4.4.f.(1) through 4.4.f.(7) are met, as applicable.
