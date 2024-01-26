@@ -284,9 +284,36 @@ misuse patient records.
 
 # Marine Corps
 
-- [Link 1](https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/)
-- [Page 770](https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other%20Important%20Docs/Military_Judges_Benchbook_\(Jul_03\)\(with_updates_through_Feb_08\).pdf#page=770)
-- [Page 14](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
+- [SELF-INITIATED REFERRAL PROCESS FOR MENTAL HEALTH EVALUATIONS OF MARINES – THE BRANDON ACT | 9/18/2023 | MARADMINS Number: 463/23](https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/)
+- [Military Judges' Benchbook, Self encrimination raised, Page 770](https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other%20Important%20Docs/Military_Judges_Benchbook_\(Jul_03\)\(with_updates_through_Feb_08\).pdf#page=770)
+- [Page 14 | The Law of Privileges | 2-4 Rev. 1/06 | EV 2.7. Psychotherapist-Patient Privilege – Mil.R.Evd. 513](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
+  - Mil.R.Evd. 513 established this privilege in the military. A patient has the privilege to prevent the disclosure of any
+  confidential communications made between the patient and a psychotherapist, or an assistant to the psychotherapist,
+  if the communication was made to facilitate diagnosis or treatment of the patient’s mental health condition. Patient
+  records that pertain to any such communications between a patient and a psychotherapist are included in the
+  privilege.
+  Psychotherapist is defined as a psychiatrist, clinical psychologist, or any clinical social worker licensed to provide
+  mental health services in any state, territory or possession of the United States. The privilege may be claimed by the
+  patient, or by the psychotherapist on behalf of the patient. The rule has eight (8) exceptions to the privilege, some
+  seemingly very broad. There is no privilege when:
+    1. The patient is dead
+    2. The communication is evidence of spouse abuse, child abuse or neglect, or in a proceeding when one
+    spouse is charged with a crime against the other spouse
+    3. Federal law, state law, or service regulation imposes a duty to report information contained in a
+    communication.
+    4. The psychotherapist believes that a patient’s mental condition makes the patient a danger to any person,
+    including the patient.
+    5. The communication clearly contemplated the commission of a future crime or fraud, or the
+    psychotherapist’s services are sought to assist anyone in planning or committing what the patient knew or
+    reasonably should have known to be a crime or fraud.
+    6. It is necessary to ensure the safety and security of military personnel, military dependents, military
+    property, classified information or the accomplishment of a military mission.
+    7. When an accused offers statements or other evidence concerning his mental condition in defense,
+    extenuation or mitigation.
+    8. The admission or disclosure of the communication is constitutionally required.
+  - It is highly recommended that when a legal officer identifies communications that are privileged under this rule, he
+    or she seek the assistance of a judge advocate before applying any of the exceptions to force the disclosure of the
+    communication in question.
 - [Page 254](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=254)
 - [Page 345](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=345)
 - [Page 46](https://www.trngcmd.marines.mil/Portals/207/Docs/eoa/jagmaninveshandbook.pdf#page=46)
