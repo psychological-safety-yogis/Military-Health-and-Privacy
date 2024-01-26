@@ -2,29 +2,32 @@
 
  - [FY2024 NDAA: Military Mental Health Workforce Provisions Updated January 23, 2024](https://crsreports.congress.gov/product/pdf/IN/IN12268)
  - [United States Code (USC) - House.gov](https://uscode.house.gov/)
- - [Statutes at Large, Volume 64 - House.gov](https://uscode.house.gov/statviewer.htm?volume=64&page=118)
- - [Title 10 Section 831 Edition Preliminary - USC - House.gov](https://uscode.house.gov/view.xhtml?req=\(title:10%20section:831%20edition:prelim\)%20OR%20\(granuleid:USC-prelim-title10-section831\)&f=treesort&edition=prelim&num=0&jumpTo=true)
+ - [10 USC 831: Art. 31. Compulsory self-incrimination prohibited | Title 10 Section 831 Edition Preliminary - USC - House.gov](https://uscode.house.gov/view.xhtml?req=\(title:10%20section:831%20edition:prelim\)%20OR%20\(granuleid:USC-prelim-title10-section831\)&f=treesort&edition=prelim&num=0&jumpTo=true)
+ - [10 USC 831: Art. 31. Compulsory self-incrimination prohibited | Statutes at Large, Volume 64 - House.gov](https://uscode.house.gov/statviewer.htm?volume=64&page=118)
 
 
-Code of Federal Regulations
-https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2
-https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512
-https://www.federalregister.gov/documents/2003/04/09/03-8624/dod-health-information-privacy-program
+# Code of Federal Regulations
 
-Govinfo.gov
-https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12
-https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=5
-https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6
-https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=7
+- [[Title]] [Part 2](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2)
+- [[Title]] [Section 164.512](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512)
+- [[Title]] [DOD Health Information Privacy Program](https://www.federalregister.gov/documents/2003/04/09/03-8624/dod-health-information-privacy-program)
 
-Defense.gov
-https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=38
-https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d
-https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d#page=655
-https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=3
-https://media.defense.gov/2019/Apr/11/2002115350/-1/-1/0/B_0159_JAG_MILITARY_COMMANDER_AND_THE_LAW_.PDFf
-https://media.defense.gov/2023/Feb/01/2003154024/-1/-1/0/OVW%20Leaders%20Guide-2022-victor.PDF
-https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2
+# Govinfo.gov
+
+- [[Title]] [Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
+- [[Title]] [Page 5](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=5)
+- [[Title]] [Page 6](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6)
+- [[Title]] [Page 7](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=7)
+
+# Defense.gov
+
+- [[Title]] [Page 38](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=38)
+- [[Title]] [Page 655](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d#page=655)
+- [[Title]] [Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=3)
+- [[Title]] [Military Commander and The Law](https://media.defense.gov/2019/Apr/11/2002115350/-1/-1/0/B_0159_JAG_MILITARY_COMMANDER_AND_THE_LAW_.PDFf)
+- [[Title]] [Overseas Victory Week Leaders Guide](https://media.defense.gov/2023/Feb/01/2003154024/-1/-1/0/OVW%20Leaders%20Guide-2022-victor.PDF)
+- [[Title]] [New DOD Actions to Prevent Suicide in the Military](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
+
 
 Washington Headquarters Services
 https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613
