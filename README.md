@@ -70,8 +70,9 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Vercel](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#vercel)
 - [Google Vertex AI](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#google)
 * #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-e---claims-accountability-and-freedome-of-information)
-- [Claims]()
-- [FOIA]()
+- [Freedom of Information FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#foia)
+- [DHA Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#dha-inspector-general-hotline)
+- [Department of Defense Inspector General](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#department-of-defense-office-of-inspector-general)
 
 **[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
 
@@ -562,42 +563,6 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 # SECTION E - Claims, Accountability, and Freedome of Information
 
-<br/>
-
-<div align="center"><img src="./assets/special-assistant-health-resolutions.png"></div>
-
-<br/>
-
-## [DHA Inspector General Hotline](https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/DHA-Office-of-the-Inspector-General)
-- Submit Complaints to the DHA IG Hotline
-    - The DHA IG Hotline provides a confidential and reliable avenue to report fraud, waste, abuse, and mismanagement. Please review the table below to determine if the DHA IG Hotline is the appropriate channel to address your issue. If you've determined that the DHA Hotline is the appropriate channel to address your issue, please download the DD Form 2949DD Form 2949 and email it to dha.ncr.dir-support.mbx.ig-hotline@health.mil or send it via postal mail to:
-
-| What to Report to the DHA IG Hotline. The following are a few issues that ARE normally appropriate for the DHA IG Hotline. Please review the guidance below prior to submitting a complaint. | What NOT to Report to the DHA IG Hotline. Certain matters may be better resolved through other channels, instead of the DHA IG Hotline. The following is list of matters that are NOT generally investigated by the DHA OIG. Please review the guidance below prior to submitting a complaint. |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Fraud, waste, and abuse | 911 Emergencies |
-| Gross mismanagement | Personnel matters involving requests for individual relief |
-| Procurement or contract fraud |Employment related grievances and complaints against management officials  |
-| Misuse of government property or equipment | Complaints of EEO/EO discrimination |
-| Bribery and acceptance of gratuities | Pay and allowance matters |
-| Whistleblower Reprisals |Matters relating to the Uniform Code of Military Justice to include Article 15 appeal  |
-| Travel or purchase card fraud | DOD Contractor Compliance and Disclosure requirements |
-| Health care fraud | DOD Employment Verification |
-|-|Locating a military service member |
-|-|Obtaining military records |
-|-|Child and spousal support matters |
-|-|TRICARE complaints|
-
-## [AFJAG Claims Service Center](https://claims.jag.af.mil/)
-
-## [Army JAG Claims](https://www.jagcnet.army.mil/Sites/claims.nsf/homeContent.xsp?open&documentId=BF92B85F048E9ED285257ACB0076E24Ef)
-
-## [Claim Filing Procedures for Medical Malpractice Claims by Navy and Marine Corps Service Members](https://www.jag.navy.mil/legal-services/code-15/ndaa-medical-malpractice/)
-
-## [Medical Malpractice Claims by Members of the Uniformed Services](https://home.army.mil/bliss/about/news/medical-malpractice-claims-members-uniformed-services#:~:text=Air%20Force%3A%20Claims%20should%20be,4620%20or%20DSN%20612%2D4620)
-
-
-**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
-
 # FOIA
 
 ## Department of Defense
@@ -635,6 +600,45 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 ## Coast Guard
 - [Coast Guard Freedom of Information](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Engineering-Logistics-CG-4-/FOIA/)
 - [DHS How-to](https://www.dhs.gov/foia)
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
+<br/>
+
+<div align="center"><img src="./assets/special-assistant-health-resolutions.png"></div>
+
+<br/>
+
+## [DHA Inspector General Hotline](https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/DHA-Office-of-the-Inspector-General)
+- Submit Complaints to the DHA IG Hotline
+    - The DHA IG Hotline provides a confidential and reliable avenue to report fraud, waste, abuse, and mismanagement. Please review the table below to determine if the DHA IG Hotline is the appropriate channel to address your issue. If you've determined that the DHA Hotline is the appropriate channel to address your issue, please download the DD Form 2949DD Form 2949 and email it to dha.ncr.dir-support.mbx.ig-hotline@health.mil or send it via postal mail to:
+
+| What to Report to the DHA IG Hotline. The following are a few issues that ARE normally appropriate for the DHA IG Hotline. Please review the guidance below prior to submitting a complaint. | What NOT to Report to the DHA IG Hotline. Certain matters may be better resolved through other channels, instead of the DHA IG Hotline. The following is list of matters that are NOT generally investigated by the DHA OIG. Please review the guidance below prior to submitting a complaint. |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Fraud, waste, and abuse | 911 Emergencies |
+| Gross mismanagement | Personnel matters involving requests for individual relief |
+| Procurement or contract fraud |Employment related grievances and complaints against management officials  |
+| Misuse of government property or equipment | Complaints of EEO/EO discrimination |
+| Bribery and acceptance of gratuities | Pay and allowance matters |
+| Whistleblower Reprisals |Matters relating to the Uniform Code of Military Justice to include Article 15 appeal  |
+| Travel or purchase card fraud | DOD Contractor Compliance and Disclosure requirements |
+| Health care fraud | DOD Employment Verification |
+|-|Locating a military service member |
+|-|Obtaining military records |
+|-|Child and spousal support matters |
+|-|TRICARE complaints|
+
+## [AFJAG Claims Service Center](https://claims.jag.af.mil/)
+
+## [Army JAG Claims](https://www.jagcnet.army.mil/Sites/claims.nsf/homeContent.xsp?open&documentId=BF92B85F048E9ED285257ACB0076E24Ef)
+
+## [Claim Filing Procedures for Medical Malpractice Claims by Navy and Marine Corps Service Members](https://www.jag.navy.mil/legal-services/code-15/ndaa-medical-malpractice/)
+
+## [Medical Malpractice Claims by Members of the Uniformed Services](https://home.army.mil/bliss/about/news/medical-malpractice-claims-members-uniformed-services#:~:text=Air%20Force%3A%20Claims%20should%20be,4620%20or%20DSN%20612%2D4620)
+
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
 
 
 # [Department of Defense Office of Inspector General](https://www.oversight.gov/Inspectors-General/Department-Defense-OIG)
