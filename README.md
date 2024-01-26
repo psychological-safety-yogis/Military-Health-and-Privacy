@@ -62,9 +62,10 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Other .org's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-org)
 - [Other .com's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-com)
 
-* #### [SECTION D - Large Language Model Tools to aid you in your journey](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
+* #### [SECTION D - Large Language Model Tools to aid you in your journey](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-d---large-language-model-tools-to-aid-you-in-your-journey-1)
 
-* #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
+
+* #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-e---claims-accountability-and-freedome-of-information)
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
   - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
     - [Active Listening](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
