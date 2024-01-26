@@ -251,8 +251,51 @@ present).)"
 
 # DHA
 
-- [Info Paper](https://health.mil/Reference-Center/Fact-Sheets/2022/01/05/Info-Paper-Military-Command-Exception-and-Disclosing-PHI-of-Armed-Forces-Personnel)
+- [The Military Command Exception and Disclosing PHI of Armed Forces Personnel](https://health.mil/Reference-Center/Fact-Sheets/2022/01/05/Info-Paper-Military-Command-Exception-and-Disclosing-PHI-of-Armed-Forces-Personnel)
 - [Military Command Exception](https://www.health.mil/Military-Health-Topics/Privacy-and-Civil-Liberties/HIPAA-Compliance-within-the-MHS/Military-Command-Exception)
+  - Under the Military Command Exception, a covered entity may disclose the PHI of Service members for authorized
+  activities to appropriate military command authorities. It is important to note that this exception does not require
+  covered entities to disclose PHI to commanders, it only permits the disclosure. If disclosure is made, then only the
+  minimum amount of information necessary should be provided. Further, the Exception does not permit a
+  Commander’s direct access to a Service member’s electronic medical record, unless otherwise authorized by the
+  Service member or the HIPAA Privacy Rule.
+  - Appropriate military command authorities include commanders who exercise authority over a Service member, or
+another person designated by a commander.
+  -Authorized activities for which PHI may be disclosed to a commander include but are not limited to:
+• Determining the member's fitness for duty;
+• Fitness to perform a particular assignment; or
+• Carrying out any other activity essential for the military mission
+Mental Health and/or Substance Misuse
+To dispel stigma around Service members seeking mental health care or voluntary substance misuse education,
+DoDI 6490.08 was issued to balance patient confidentiality rights with the commander’s need to make informed
+operational and risk management decisions.
+DoD healthcare providers shall not notify a Service member’s commander when the member obtains mental
+health care and/or substance misuse education services – unless one of the below conditions or circumstances
+apply. If they apply, then disclosure is required.
+• Harm to self. There is a serious risk of self‐harm by the member.
+• Harm to others. There is a serious risk of harm to others. This includes any disclosures concerning child
+abuse or domestic violence.
+• Harm to mission. There is a serious risk of harm to a specific military mission.
+• Special personnel. The member is in the Personnel Reliability Program or has mission responsibilities of
+such potential sensitivity or urgency that normal notification standards would significantly risk mission
+accomplishment.
+• Inpatient care. The member is admitted or discharged from any inpatient mental health or substance
+misuse treatment facility.
+• Acute medical conditions interfering with duty. The member is experiencing an acute mental health
+condition or is engaged in an acute medical treatment regimen that impairs the member’s ability to
+perform assigned duties.
+• Substance misuse treatment program. The member has entered into, or is being discharged from, a formal
+outpatient or inpatient treatment program for the treatment of substance misuse.
+• Command‐directed mental health evaluation. The mental health services are obtained as a result of a
+command‐directed mental health evaluation.
+• Other special circumstances. The notification is based on other special circumstances in which proper
+execution of the military mission outweighs the interests served by avoiding notification, as determined
+on a case‐by‐case basis by a covered entity.
+  - If one of these circumstances or conditions applies, DoDI 6490.08 makes the disclosure to the commander
+permitted AND required.
+  - Substance Misuse Records
+  - Covered entities shall follow the special rules in 42 CFR Part 2 regarding confidentiality of substance
+misuse patient records.
 - [News Article 1](https://www.health.mil/News/Dvids-Articles/2023/05/31/news445861)
 - [News Article 2](https://www.health.mil/News/Dvids-Articles/2023/12/04/news458878)
 - [The Dual Roles of Military Psychiatrists: Ethical Considerations
