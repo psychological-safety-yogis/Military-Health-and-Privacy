@@ -129,6 +129,9 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [same, continued Page 6](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6)
 - [Public Health Service,  patient information. 42 CFR Ch. I § 2.23 (10–1–22 Edition), Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
 
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
 ## Defense.gov
 
 - [Military Rules of Evidence, Rule 513, Psychotherapist-patient privilege, Page 38](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=38)
@@ -196,7 +199,9 @@ These revisions are intended to:
     - Centralize the core suicide prevention training curriculum."
 
 
-## Washington Headquarters Services (documents)
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
+## Washington Headquarters Services (Defense Department documents and publications)
 
 - [Comprehensive Health Surveillance - DODD NUMBER 6490.02E February 8, 2012 Incorporating Change 2, August 28, 2017 - USD P&R](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613)
 - [DOD INSTRUCTION 6025.13 MEDICAL QUALITY ASSURANCE AND CLINICAL QUALITY MANAGEMENT IN THE MILITARY HEALTH SYSTEM](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf)
@@ -296,6 +301,8 @@ missing person, if:
 [The Summary Court Martial - Special Evidence Problem - Confessions](https://apps.dtic.mil/sti/tr/pdf/ADA384974.pdf#page=258)
 
 
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
 ## DHA
 - [DHA Publications](https://health.mil/Reference-Center/DHA-Publications)
 - [Healthcare Resolutions, Disclosure, Clinical Conflict Management and Healthcare Provider (HCP) Resiliency and Support in the Military Health System (MHS)](https://www.health.mil/Reference-Center/DHA-Publications/2019/06/18/DHA-PI-6025-17)
@@ -360,6 +367,9 @@ misuse patient records.
 - [Find a Military Hospital or Clinic](https://www.tricare.mil/MTF)
 - [Mental Health Care](https://www.tricare.mil/mentalhealth)
 - [Mental Health Appointments](https://www.tricare.mil/CoveredServices/Mental/MentalHealthAppts)
+
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
 
 # Section B: Military departments on-down
 
@@ -438,6 +448,9 @@ suspect has been taken into custody or otherwise deprived of his freedom of acti
 
 - [Office of Operational Medicine and Quality Improvement Division (CG-1K21)](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Health-Services-CG-112/Operational-Medicine-and-Quality-Improvement-Division/HIPAA-and-Health-Information-Privacy/)
 
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
 ## Section C: meta and Scholarly Research 
 
 ## Search Engines
@@ -451,6 +464,9 @@ suspect has been taken into custody or otherwise deprived of his freedom of acti
 - [MetaOSINT.  Similar to above but cooler looking.  Maybe harder to use though.]{https://metaosint.github.io/chart}
 - [MetaOSINT: Probably the best way to search for and filter open-source research methods](https://metaosint.github.io/table)
 - [OSINT Combine: Mostly good for their bookmarks stack.](https://www.osintcombine.com/free-tools)
+
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
 
 # Scholarly sources
 
@@ -509,6 +525,8 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Military Justice Attorneys on rights to counsel](https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/)
 
 
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
+
 # SECTION D - Large Language Model Tools to aid you in your journey
 
 ## Phind.com
@@ -538,6 +556,9 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 ## Google
 - [Create with Vertex AI](https://console.cloud.google.com/vertex-ai/generative/multimodal/create/)
+
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
 
 # SECTION E - Claims, Accountability, and Freedome of Information
 
@@ -574,6 +595,8 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 ## [Medical Malpractice Claims by Members of the Uniformed Services](https://home.army.mil/bliss/about/news/medical-malpractice-claims-members-uniformed-services#:~:text=Air%20Force%3A%20Claims%20should%20be,4620%20or%20DSN%20612%2D4620)
 
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
 
 # FOIA
 
@@ -651,6 +674,9 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 | ---- | Pay and allowance matters |
 | ---- | Deceptive lending practices and other consumer fraud |
 
+
+
+**[`^        back to top        ^`](#awesome-military-mental-health-privacy)**
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHM52J47"
