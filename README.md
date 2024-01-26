@@ -356,12 +356,12 @@ Jane Dickson, Michelle Stewart](https://onlinelibrary.wiley.com/doi/10.1002/bsl.
 - [ Dual loyalty in military medical ethics: a moral dilemma or a test of integrity? Peter Olsthoorn ](https://philarchive.org/rec/OLSDLI-2)
 - [Military Medical Ethics: Privacy, Military Necessity, and the Dual Roles of Military Psychiatrists
 Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
-- [Link 13](https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=09fb02ee-8d3f-4ee6-8ccb-ba19c4071465%40redis)
-- [Link 14](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/dual-loyalty-among-military-health-professionals-human-rights-and-ethics-in-times-of-armed-conflict/A9AF365BAD5F359E076A2D19A2199936)
-- [Link 15](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/teaching-military-medical-ethics-another-look-at-dual-loyalty-and-triage/62B255DE712E33900FCD62D9693C7880)
-- [Link 16](https://www.rand.org/pubs/commentary/2014/10/compromised-confidentiality-in-the-military-is-harmful.html)
-- [Link 17](https://www.researchgate.net/publication/329801888_Dual_loyalty_in_military_medical_ethics_A_moral_dilemma_or_a_test_of_integrity)
-- [Link 18](https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession)
+- [something at EBSCOHost that I can't find anymore with just the link](https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=09fb02ee-8d3f-4ee6-8ccb-ba19c4071465%40redis)
+- [Dual Loyalty among Military Health Professionals: Human Rights and Ethics in Times of Armed Conflict](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/dual-loyalty-among-military-health-professionals-human-rights-and-ethics-in-times-of-armed-conflict/A9AF365BAD5F359E076A2D19A2199936)
+- [Teaching Military Medical Ethics: Another Look at Dual Loyalty and Triage](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/teaching-military-medical-ethics-another-look-at-dual-loyalty-and-triage/62B255DE712E33900FCD62D9693C7880)
+- [Compromised Confidentiality in the Military Is Harmful, Charles C. Engel](https://www.rand.org/pubs/commentary/2014/10/compromised-confidentiality-in-the-military-is-harmful.html)
+- [Dual loyalty in military medical ethics: A moral dilemma or a test of integrity? July 2019 | Journal of the Royal Army Medical Corps | Peter Olsthoorn, Ministry of Defense, Netherlands](https://www.researchgate.net/publication/329801888_Dual_loyalty_in_military_medical_ethics_A_moral_dilemma_or_a_test_of_integrity)
+- [Medical Ethics for the Military Profession | October 2021 | Revista Científica General José María Córdova](https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession)
 - [Compromised Confidentiality Is Harmful: Military Owes Proof to the Contrary | C. Engel | Published 29 December 2014 | Psychology, Law, Political Science](https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c)
 
 # World Medical Association standards
