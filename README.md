@@ -8,14 +8,14 @@
 
 # Code of Federal Regulations
 
-- [Part 2](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2)
-- [Section 164.512](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512)
+- [PART 2—CONFIDENTIALITY OF SUBSTANCE USE DISORDER PATIENT RECORDS](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2)
+- [§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required.](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512)
 - [DOD Health Information Privacy Program](https://www.federalregister.gov/documents/2003/04/09/03-8624/dod-health-information-privacy-program)
 
 # Govinfo.gov
 
-- [Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
-- [Page 5](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=5)
+- [Public Health Service,  patient information. 42 CFR Ch. I § 2.23 (10–1–22 Edition), Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
+- [Public Health Service,  restrictions on disclosure. 42 CFR Ch. I § 2.12 (10–1–22 Edition), Page 5](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=5)
 - [Page 6](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6)
 - [Page 7](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=7)
 
