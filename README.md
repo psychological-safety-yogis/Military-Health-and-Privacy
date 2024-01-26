@@ -181,7 +181,9 @@ missing person, if:
     DoDI 6400.06, the limitations on disclosure under these issuances apply."
 
 # Defense Technical Information Center
-## EXAMPLE MATERIAL: Handbook for Military Justice and Civil Law, Naval Justice School, September 2000. 
+## EXAMPLE MATERIAL: 
+
+### Handbook for Military Justice and Civil Law, Naval Justice School, September 2000. 
 [The Summary Court Martial - Special Evidence Problem - Confessions](https://apps.dtic.mil/sti/tr/pdf/ADA384974.pdf#page=258)
 - NOTE: Before you consider an out-of-court statement of the accused as evidence against
 him, you must be convinced by a preponderance of the evidence that the statement was
