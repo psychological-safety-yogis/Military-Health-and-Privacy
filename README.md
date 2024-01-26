@@ -262,33 +262,33 @@ present).)"
   - Appropriate military command authorities include commanders who exercise authority over a Service member, or
 another person designated by a commander.
   -Authorized activities for which PHI may be disclosed to a commander include but are not limited to:
-• Determining the member's fitness for duty;
-• Fitness to perform a particular assignment; or
-• Carrying out any other activity essential for the military mission
-Mental Health and/or Substance Misuse
-To dispel stigma around Service members seeking mental health care or voluntary substance misuse education,
+    - Determining the member's fitness for duty;
+    - Fitness to perform a particular assignment; or
+    - Carrying out any other activity essential for the military mission
+  - Mental Health and/or Substance Misuse
+  - To dispel stigma around Service members seeking mental health care or voluntary substance misuse education,
 DoDI 6490.08 was issued to balance patient confidentiality rights with the commander’s need to make informed
 operational and risk management decisions.
-DoD healthcare providers shall not notify a Service member’s commander when the member obtains mental
+  - DoD healthcare providers shall not notify a Service member’s commander when the member obtains mental
 health care and/or substance misuse education services – unless one of the below conditions or circumstances
 apply. If they apply, then disclosure is required.
-• Harm to self. There is a serious risk of self‐harm by the member.
-• Harm to others. There is a serious risk of harm to others. This includes any disclosures concerning child
+    - Harm to self. There is a serious risk of self‐harm by the member.
+    - Harm to others. There is a serious risk of harm to others. This includes any disclosures concerning child
 abuse or domestic violence.
-• Harm to mission. There is a serious risk of harm to a specific military mission.
-• Special personnel. The member is in the Personnel Reliability Program or has mission responsibilities of
+    - Harm to mission. There is a serious risk of harm to a specific military mission.
+    - Special personnel. The member is in the Personnel Reliability Program or has mission responsibilities of
 such potential sensitivity or urgency that normal notification standards would significantly risk mission
 accomplishment.
-• Inpatient care. The member is admitted or discharged from any inpatient mental health or substance
+    - Inpatient care. The member is admitted or discharged from any inpatient mental health or substance
 misuse treatment facility.
-• Acute medical conditions interfering with duty. The member is experiencing an acute mental health
+    - Acute medical conditions interfering with duty. The member is experiencing an acute mental health
 condition or is engaged in an acute medical treatment regimen that impairs the member’s ability to
 perform assigned duties.
-• Substance misuse treatment program. The member has entered into, or is being discharged from, a formal
+    - Substance misuse treatment program. The member has entered into, or is being discharged from, a formal
 outpatient or inpatient treatment program for the treatment of substance misuse.
-• Command‐directed mental health evaluation. The mental health services are obtained as a result of a
+    - Command‐directed mental health evaluation. The mental health services are obtained as a result of a
 command‐directed mental health evaluation.
-• Other special circumstances. The notification is based on other special circumstances in which proper
+    - Other special circumstances. The notification is based on other special circumstances in which proper
 execution of the military mission outweighs the interests served by avoiding notification, as determined
 on a case‐by‐case basis by a covered entity.
   - If one of these circumstances or conditions applies, DoDI 6490.08 makes the disclosure to the commander
