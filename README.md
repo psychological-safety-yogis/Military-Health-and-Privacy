@@ -19,7 +19,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 <br/>
-<div align="center"><img src="./images/fault.gif"></div>
+<div align="center"><img src="./assets/fault.gif"></div>
 <br/>
 
 This page was built using [Github Pages](https://docs.github.com/en/pages/quickstart) and [Github Awesome](https://github.com/sindresorhus/awesome#readme), using [Awesome Data Science](https://awesome-datascience.academic.io/) as a [source](https://github.com/academic/awesome-datascience) template.  Our source repository is [here](https://github.com/psychological-safety-yogis/awesome-psych-safety).  
