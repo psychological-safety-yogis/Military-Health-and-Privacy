@@ -45,7 +45,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Code of Federal Regulations](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#code-of-federal-regulations)
 - [Govinfo.gov](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#govinfogov)
 - [Defense.gov](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#defensegov)
-- [Documents via Washington Headquarters Services](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#washington-headquarters-services)
+- [DoD Publications via Washington Headquarters Services (WHS)](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#washington-headquarters-services-defense-department-documents-and-publications)
 - [Information via Defense Technical Information Center](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#defense-technical-information-center)
 - [Defense Health Agency](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#defense-technical-information-center)
 - [Tricare](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#tricare)
