@@ -110,35 +110,28 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 - [Link 2](https://pubmed.ncbi.nlm.nih.gov/30573701/)
 - [Link 3](https://pubmed.ncbi.nlm.nih.gov/30904832/)
 
+# Scholarly sources
 
+- [Link 1](https://academic.oup.com/milmed/article/184/11-12/212/5574897)
+- [Link 2](https://academic.oup.com/milmed/article/185/5-6/e527/5803039)
+- [Link 3](https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
+- [Link 4](https://doi.org/10.17226/12478)
+- [Link 5](https://nap.nationalacademies.org/catalog/12478/military-medical-ethics-issues-regarding-dual-loyalties-workshop-summary)
+- [Link 6](https://nap.nationalacademies.org/read/11434/chapter/6#51)
+- [Link 7](https://nlgmltf.org/military-law/2014/article-138/)
+- [Link 8](https://nlgmltf.org/military-law/2019/military-patients-privacy-rights/)
+- [Link 9](https://onlinelibrary.wiley.com/doi/10.1002/bsl.)
+- [Link 10](https://philarchive.org/archive/OLSDLI)
+- [Link 11](https://philarchive.org/rec/OLSDLI-2)
+- [Link 12](https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
+- [Link 13](https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=09fb02ee-8d3f-4ee6-8ccb-ba19c4071465%40redis)
+- [Link 14](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/dual-loyalty-among-military-health-professionals-human-rights-and-ethics-in-times-of-armed-conflict/A9AF365BAD5F359E076A2D19A2199936)
+- [Link 15](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/teaching-military-medical-ethics-another-look-at-dual-loyalty-and-triage/62B255DE712E33900FCD62D9693C7880)
+- [Link 16](https://www.rand.org/pubs/commentary/2014/10/compromised-confidentiality-in-the-military-is-harmful.html)
+- [Link 17](https://www.researchgate.net/publication/329801888_Dual_loyalty_in_military_medical_ethics_A_moral_dilemma_or_a_test_of_integrity)
+- [Link 18](https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession)
+- [Link 19](https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c)
 
-
-
-Scholarly sources
-https://academic.oup.com/milmed/article/184/11-12/212/5574897
-https://academic.oup.com/milmed/article/185/5-6/e527/5803039
-https://academic.oup.com/milmed/article/185/5-6/e527/5803039
-https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408
-https://ajp.psychiatryonline.org/doi/epdf/10.1176/appi.ajp-rj.2020.150408
-https://ajp.psychiatryonline.org/doi/epdf/10.1176/appi.ajp-rj.2020.150408
-https://ajp.psychiatryonline.org/doi/epdf/10.1176/appi.ajp-rj.2020.150408
-https://doi.org/10.17226/12478
-https://nap.nationalacademies.org/catalog/12478/military-medical-ethics-issues-regarding-dual-loyalties-workshop-summary
-https://nap.nationalacademies.org/read/11434/chapter/6#51
-https://nlgmltf.org/military-law/2014/article-138/
-https://nlgmltf.org/military-law/2019/military-patients-privacy-rights/
-https://onlinelibrary.wiley.com/doi/10.1002/bsl.
-https://philarchive.org/archive/OLSDLI
-https://philarchive.org/rec/OLSDLI-2
-https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408
-https://psychiatryonline.org/doi/epdf/10.1176/appi.ajp-rj.2020.150408
-https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=09fb02ee-8d3f-4ee6-8ccb-ba19c4071465%40redis
-https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/dual-loyalty-among-military-health-professionals-human-rights-and-ethics-in-times-of-armed-conflict/A9AF365BAD5F359E076A2D19A2199936
-https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/teaching-military-medical-ethics-another-look-at-dual-loyalty-and-triage/62B255DE712E33900FCD62D9693C7880
-https://www.rand.org/pubs/commentary/2014/10/compromised-confidentiality-in-the-military-is-harmful.html
-https://www.researchgate.net/publication/329801888_Dual_loyalty_in_military_medical_ethics_A_moral_dilemma_or_a_test_of_integrity
-https://www.researchgate.net/publication/356303320_Medical_Ethics_for_the_Military_Profession
-https://www.semanticscholar.org/paper/Compromised-Confidentiality-Is-Harmful%3A-Military-to-Engel/85d7ee4262d5ad41ea61d74df88500dfcaddaf4c
 
 World Medical Association standards
 https://www.wma.net/policies-post/wma-declaration-of-tokyo-guidelines-for-physicians-concerning-torture-and-other-cruel-inhuman-or-degrading-treatment-or-punishment-in-relation-to-detention-and-imprisonment/
