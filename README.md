@@ -31,6 +31,7 @@ self-incrimination, Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRem
 - [26 Sep 2023, New DoD Actions to Prevent Suicide in the Military, Page 2, ](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
 
 - Emphasis on Lines of Effort (LOE) 2, 3, 4:
+
   2) "Improve the Delivery of Mental Health Care. Mental health is vital to every
 Service member' s well-being and to the overall readiness of our force . It is our
 solemn obligation to provide the best possible mental health care to our men and
@@ -73,6 +74,16 @@ shift, as have our efforts to better educate Department leaders about prevention
 give them greater visibility into the data that can help them assess command climate.
 Looking ahead, we need to build on the lessons learned and revise suicide prevention
 training to focus more directly on stressors and risk factors that Service members face
+daily. To deepen our work in this area, we will begin implementing 20 approved
+SPRIRC recommendations to modernize the Department's suicide prevention and
+postvention training. The Defense Suicide Prevention Office will develop the core
+curriculum for this revised training, which will allow for tailoring to meet the unique
+needs of each of the Military Services, to include the National Guard and Reserve.
+These revisions are intended to:
+    - Modernize content, delivery, and dosage of suicide prevention training.
+    - Train behavioral health technicians in evidence-based practices.
+    - Integrate leaders at all levels into suicide prevention training.
+    - Centralize the core suicide prevention training curriculum."
 
 
 # Washington Headquarters Services
