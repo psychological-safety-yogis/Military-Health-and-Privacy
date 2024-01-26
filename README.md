@@ -296,8 +296,8 @@ permitted AND required.
   - Substance Misuse Records
   - Covered entities shall follow the special rules in 42 CFR Part 2 regarding confidentiality of substance
 misuse patient records.
-- [News Article 1](https://www.health.mil/News/Dvids-Articles/2023/05/31/news445861)
-- [News Article 2](https://www.health.mil/News/Dvids-Articles/2023/12/04/news458878)
+- [Mental Health Stigma Campaign Will Be New Hub of Hope](https://www.health.mil/News/Dvids-Articles/2023/05/31/news445861)
+- [Department of Defense Works to Dispel Stigma of Seeking Mental Health Care](https://www.health.mil/News/Dvids-Articles/2023/12/04/news458878)
 - [Military Health System Mental Health Hub](https://www.health.mil/Military-Health-Topics/Mental-Health)
 - [Mental Health Resources](https://www.health.mil/Military-Health-Topics/Mental-Health/Resources)
 - [Suicide Prevention - Connect to Protect](https://www.health.mil/Military-Health-Topics/MHS-Toolkits/Toolkits/Mental-Health/Suicide-Prevention)
@@ -306,9 +306,7 @@ misuse patient records.
   - [Psychological Health Resource Center (PHRC) Live ChatPsychological Health Resource Center Live ChatPsychological Health Resource Center (PHRC) Live Chat - Visit the 24/7 PHRC Live Chat to speak directly with a trained psychological health resource consultant. Conversations are free and confidential.](https://home-c72.niceincontact.com/incontact/chatclient/chatclient.aspx?poc=980d09d5-c178-4872-b2e5-4fcfbec6dec8&bu=4599581)
 - [Real Warriors Campaign](https://www.health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/Real-Warriors-Campaign)
 - [inTransition](https://www.health.mil/Military-Health-Topics/Centers-of-Excellence/Psychological-Health-Center-of-Excellence/inTransition)
-- [The Dual Roles of Military Psychiatrists: Ethical Considerations
-of the HIPAA Military Command Exception
-Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
+
 
 # Tricare
 - [Find a Military Hospital or Clinic](https://www.tricare.mil/MTF)
@@ -370,6 +368,9 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 
 # Scholarly sources
 
+- [The Dual Roles of Military Psychiatrists: Ethical Considerations
+of the HIPAA Military Command Exception
+Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
 - [Link 1](https://academic.oup.com/milmed/article/184/11-12/212/5574897)
 - [Link 2](https://academic.oup.com/milmed/article/185/5-6/e527/5803039)
 - [Link 3](https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
