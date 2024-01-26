@@ -89,16 +89,16 @@ These revisions are intended to:
 # Washington Headquarters Services
 
 - [Comprehensive Health Surveillance | DODD NUMBER 6490.02E February 8, 2012 Incorporating Change 2, August 28, 2017 | USD P&R](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613)
-- [DODI NSTRUCTION 6025.13 MEDICAL QUALITY ASSURANCE AND CLINICAL QUALITY MANAGEMENT IN THE MILITARY HEALTH SYSTEM](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf)
-- [Link 3](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602518p.pdf?ver=2019-03-13-125803-017)
-- [Page 12](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=12)
-- [Page 2](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=2)
-- [Link 4](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf)
-- [Page 3](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=3)
-- [Page 6](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=6)
-- [Link 5](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717)
-- [Page 25](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25)
-- [Page 42](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=42)
+- [DOD INSTRUCTION 6025.13 MEDICAL QUALITY ASSURANCE AND CLINICAL QUALITY MANAGEMENT IN THE MILITARY HEALTH SYSTEM](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf)
+- [DOD INSTRUCTION 6025.18 HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE COMPLIANCE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602518p.pdf?ver=2019-03-13-125803-017)
+- [Mental Health Evaluations of Members of the Military Services, Page 12 | NUMBER 6490.04 March 4, 2013 Incorporating Change 1, Effective April 22, 2020](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=12)
+- [Mental Health Evaluations of Members of the Military Services, Page 2 | NUMBER 6490.04 March 4, 2013 Incorporating Change 1, Effective April 22, 2020](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=2)
+- [DOD INSTRUCTION 6490.08 COMMAND NOTIFICATION REQUIREMENTS TO DISPEL STIGMAS IN PROVIDING MENTAL HEALTH CARE TO SERVICE MEMBERS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf)
+  - [Page 3, DOD INSTRUCTION 6490.08 COMMAND NOTIFICATION REQUIREMENTS TO DISPEL STIGMAS IN PROVIDING MENTAL HEALTH CARE TO SERVICE MEMBERS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=3)
+  - [Page 6, DOD INSTRUCTION 6490.08 COMMAND NOTIFICATION REQUIREMENTS TO DISPEL STIGMAS IN PROVIDING MENTAL HEALTH CARE TO SERVICE MEMBERS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=6)
+- [DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717)
+  - [Page 25, SECTION 4. USES AND DISCLOSURES OF PHI, 4.1. GENERAL RULES ON USES OR DISCLOSURES OF PHI. Standard: Permitted and Prohibited Uses and Disclosures. DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25)
+- [Page 42 (continued from 41), Permitted Disclosures: Limited Information for Identification and Location Purposes | DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=42)
 
 # Defense Technical Information Center
 
