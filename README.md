@@ -88,8 +88,8 @@ These revisions are intended to:
 
 # Washington Headquarters Services
 
-- [Link 1](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613)
-- [Link 2](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf)
+- [Comprehensive Health Surveillance | DODD NUMBER 6490.02E February 8, 2012 Incorporating Change 2, August 28, 2017 | USD P&R](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodd/649002Ep.pdf?ver=2019-04-08-104448-613)
+- [DODI NSTRUCTION 6025.13 MEDICAL QUALITY ASSURANCE AND CLINICAL QUALITY MANAGEMENT IN THE MILITARY HEALTH SYSTEM](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602513p.pdf)
 - [Link 3](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/602518p.pdf?ver=2019-03-13-125803-017)
 - [Page 12](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=12)
 - [Page 2](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649004p.pdf#page=2)
