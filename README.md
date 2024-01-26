@@ -504,7 +504,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 # SECTION D - Large Language Model Tools to aid you in your journey
 
-Phind.com
+# Phind.com
 - [Customize what websites Phind prioritizes](https://www.phind.com/profile)
 - [Filters](https://www.phind.com/filters)
 - [Search operators ("Bangs," like an exclamation mark)](https://www.phind.com/bangs)
@@ -512,21 +512,21 @@ Phind.com
 - [Chat](https://www.phind.com/agent?home=true)
 - [Add this custom address to add Phind to your browser search engines, or use the Chrome extension if you're on Chromium-based browsers](https://www.phind.com/search?q=%s)
 
-Poe
+# Poe
 - [Create a Poe bot.  It can run on many different engines (ie OpenAI, Claude, Llama, etc.)](https://poe.com/create_bot)
   - [How-to](https://developer.poe.com/prompt-bots/how-to-create-a-prompt-bot)
 
-OpenAI ChatGPT
+# OpenAI ChatGPT
 - [Create your own "GPT" (custom bot)](https://help.openai.com/en/articles/8554397-creating-a-gpt)
   - [Editor](https://chat.openai.com/gpts/editor)
 
-Vercel
+# Vercel
 - [Vercel AI](https://github.com/vercel/ai)
 - [Vercel Software Developement Kit](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
 - [Deploying AI Applications](https://vercel.com/blog/deploying-ai-applications)
 - [Getting started with Sveltekit](https://vercel.com/docs/beginner-sveltekit/getting-started)
 
-Google
+# Google
 - [Create with Vertex AI](https://console.cloud.google.com/vertex-ai/generative/multimodal/create/)
 
 # SECTION E - Claims, Accountability, and Freedome of Information
