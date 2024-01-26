@@ -628,6 +628,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 |-|Child and spousal support matters |
 |-|TRICARE complaints|
 
+# Military Department Claims (ie for malpractice)
 ## [AFJAG Claims Service Center](https://claims.jag.af.mil/)
 
 ## [Army JAG Claims](https://www.jagcnet.army.mil/Sites/claims.nsf/homeContent.xsp?open&documentId=BF92B85F048E9ED285257ACB0076E24Ef)
