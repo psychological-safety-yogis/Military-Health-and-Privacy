@@ -49,7 +49,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Information via Defense Technical Information Center](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#defense-technical-information-center)
 - [Defense Health Agency](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#defense-technical-information-center)
 - [Tricare](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#tricare)
-* #### [SECTION B - Lower-level Federal](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-b-lower-level)
+* #### [SECTION B - Military Departments on down](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-b-military-departments-on-down)
 - [Army](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#army)
 - [Navy](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#navy)
 - [Air Force](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#air-force)
