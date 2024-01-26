@@ -1,9 +1,9 @@
 # Congress
 
-- [FY2024 NDAA: Military Mental Health Workforce Provisions Updated January 23, 2024](https://crsreports.congress.gov/product/pdf/IN/IN12268)
-- [United States Code (USC) - House.gov](https://uscode.house.gov/)
-- [Statutes at Large, Volume 64 - House.gov](https://uscode.house.gov/statviewer.htm?volume=64&page=118)
-- [Title 10 Section 831 Edition Preliminary - USC - House.gov](https://uscode.house.gov/view.xhtml?req=(title:10 section:831 edition:prelim) OR (granuleid:USC-prelim-title10-section831)&f=treesort&edition=prelim&num=0&jumpTo=true)
+ - [FY2024 NDAA: Military Mental Health Workforce Provisions Updated January 23, 2024](https://crsreports.congress.gov/product/pdf/IN/IN12268)
+ - [United States Code (USC) - House.gov](https://uscode.house.gov/)
+ - [Statutes at Large, Volume 64 - House.gov](https://uscode.house.gov/statviewer.htm?volume=64&page=118)
+ - [Title 10 Section 831 Edition Preliminary - USC - House.gov](https://uscode.house.gov/view.xhtml?req=(title:10 section:831 edition:prelim) OR (granuleid:USC-prelim-title10-section831)&f=treesort&edition=prelim&num=0&jumpTo=true)
 
 
 Code of Federal Regulations
