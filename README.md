@@ -27,8 +27,59 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 # AWESOME MILITARY MENTAL HEALTH PRIVACY
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) 
 
-# An awesome open-source list of ways maximize your mental health while feeling your private information is protected.
+# An awesome open-source list of ways maximize your mental health while feeling your private information is protected.  
 
+# DISCLAIMER: Nothing in this document is to be construed as legal advice.  Just a list of links you *may* find useful . . . 
+## . . . in the spirit of democratizing all of the information.
+
+
+## Table of Contents
+- [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#table-of-contents)
+- [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#preamble-guide-to-github-and-editing-readmes)
+* #### [SECTION A - How to psych the safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-a---how-to-psych-the-safety-1)
+- [What is Psychological Safety?](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-is-psychological-safety)
+- [Where do I start?  Article by Denise Cooper and Katrina Hardie in Psychology Today](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#where-do-i-start)
+- [Psych safety at a glance](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#overview-diagram)
+- [The Best Psych Safety Resources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#the-best-sources)
+  - [Gitlab guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#gitlab-guide)
+  - [Canada's guide](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#canadian-centre-on-occupational-health-and-safety-guide)
+  - [Psych Safety online community](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
+  - [Government Sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#psych-safety-community)
+  - [Other good ones](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#other-good-ones)
+- [Quotes from key leaders](https://github.com/psychological-safety-yogis/awesome-psych-safety/tree/live#quotes-from-key-business-leaders)
+- [Cheat sheet: Worst to best culture types](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#cheat-sheet-worst-to-best-cultures)
+- [Every now and again, not often, but occasionally, you get to be a part of justice being done](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#what-do-you-love-most-about-the-law)
+- [Videos](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#videos)
+- [Articles, webpages, etc.](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#articles)
+- [Academic sources](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#academic-sources)
+- [O'Reilly Learning videos, playlists, books. Free through Mil OneSource, MWR Digital Libraries](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#oreilly-learning-videos-playlists-books-free-through-mil-onesource-mwr-digital-libraries)
+- [Harvard Business Review and Harvard Business School articles](https://github.com/psychological-safety-yogis/awesome-psych-safety#harvard-business-review-and-harvard-business-school-articles)
+- [Harvard Business School articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#harvard-business-school-articles)
+- [We're a family! (not)](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
+- [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
+- [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
+- [Consulting Firm articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-articles)
+- [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
+- [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
+  - [PDFs from Skybrary, "Bookshelf"](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
+- [Mental Health Awesome List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
+  - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
+  - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
+- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-including-section-b-less-a-few)
+* #### [SECTION B - Copy Pasta](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
+- [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
+  - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
+    - [Active Listening](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
+    - [Addressing Conflicts](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_conflicts.html)
+    - [Dealing with Stress in the Workplace](https://www.ccohs.ca/oshanswers/psychosocial/mh/stress_workplace.html)
+    - [Having Courageous Conversations](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_conversations.html)
+    - [Mental Health Introduction](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_address.html)
+    - [Job Burnout](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_jobburnout.html)
+    - [Psychosocial Risk Factors in the Workplace](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_risk.html) 
+    - [Return to Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/return_to_work.html)
+    - [Recognizing and Addressing Stigma at Work](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_stigma.html)
+- [The Gitlab Handbook](https://handbook.gitlab.com/)
+  - [Leadership Table of Contents](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#gitlab-leadership-toc)
 
 
 # PREAMBLE: A guide to Github READMEs, submitting changes, and making your own. 
@@ -48,7 +99,7 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
 <br/>
 
-
+# Related Awesome websites
 
 # Congress
 
