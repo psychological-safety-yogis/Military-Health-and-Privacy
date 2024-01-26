@@ -270,15 +270,17 @@ misuse patient records.
 
 # Air Force
 
-- [Link 1](https://www.afjag.af.mil/Library/HQ-JAA/OpJAGAFs-2010-2019/)
-- [Link 2](https://www.afjag.af.mil/LinkClick.aspx?fileticket=QxTvr3M8q88%3d&portalid=77)
-- [Link 3](https://www.afjag.af.mil/News/Article-Display/Article/443193/senior-leaders-get-a-refresher-on-military-law/)
-- [Link 4](https://www.afjag.af.mil/Portals/77/documents/AFJAGS/MCL_OSTC_r.pdf)
-- [Page 181](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=181)
-- [Page 182](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=182)
-- [Link 5](https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320201/adc-article-31-rights/)
-- [Link 6](https://www.jba.af.mil/Portals/38/documents/Units/Legal-Office/ADC/Mental%20Health%20Eval-2020.pdf?ver=qPDijTkUEcV9bpdN1Q-l9Q%3D%3D&timestamp=1604609153020#page=3)
-- [Link 7](https://www.ramstein.af.mil/News/Commentaries/Display/Article/305718/silence-is-golden-article-31-rights-explained/)
+- [AFJAGC Library](https://www.afjag.af.mil/Library/HQ-JAA/OpJAGAFs-2010-2019/)
+- [Senior leaders get a refresher on military law](https://www.afjag.af.mil/News/Article-Display/Article/443193/senior-leaders-get-a-refresher-on-military-law/)
+- [The Military Commander and the Law – 2023 Supplement THE MILITARY COMMANDER AND THE LAW 2023 SUPPLEMENT THE OFFICE OF SPECIAL TRIAL COUNSEL](https://www.afjag.af.mil/Portals/77/documents/AFJAGS/MCL_OSTC_r.pdf)
+- [2023, Military Commander and the Law Page 181, CONFIDENTIALITY AND PRIVILEGED COMMUNICATIONS](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=181)
+- [(continued, Page 182)](https://www.afjag.af.mil/Portals/77/documents/Publications/MCL23WEB_r.pdf?ver=Lm612nGt4LBN_j4B77k2rA%3d%3d#page=182)
+- [ADC - Article 31 rights](https://www.barksdale.af.mil/Units/Fact-Sheets/Display/Article/320201/adc-article-31-rights/)
+- [Silence is Golden: Article 31 rights explained](https://www.ramstein.af.mil/News/Commentaries/Display/Article/305718/silence-is-golden-article-31-rights-explained/)
+- [Mental Health Evaluations](https://www.jba.af.mil/Portals/38/documents/Units/Legal-Office/ADC/Mental%20Health%20Eval-2020.pdf?ver=qPDijTkUEcV9bpdN1Q-l9Q%3D%3D&timestamp=1604609153020#page=3)
+  - "LACK OF CONFIDENTIALITY
+    - Generally, any statements made to mental health professionals in the course of an exam or a treatment program are inadmissible against the military member in future UCMJ proceedings under the Military Rule of Evidence 513. This psychotherapist-patient privilege has several important exceptions ___and does not apply to discharge actions or other administrative actions.___  The only individuals on base with purely privileged communications are the ADC, Special  Victims Counsel (SVC), and the Chaplain. Remember your right to consult an attorney and your right against self-incrimination under the UCMJ."
+
 
 # Marine Corps
 
