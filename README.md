@@ -180,9 +180,8 @@ missing person, if:
     a victim of sexual assault or domestic abuse elects restricted reporting under DoDI 6495.02 or
     DoDI 6400.06, the limitations on disclosure under these issuances apply."
 
-# Defense Technical Information Center
-## EXAMPLE MATERIAL: 
-
+# [Defense Technical Information Center](https://discover.dtic.mil/products-services/)
+## EXAMPLE MATERIAL on confessions: 
 ### Handbook for Military Justice and Civil Law, Naval Justice School, September 2000. 
 [The Summary Court Martial - Special Evidence Problem - Confessions](https://apps.dtic.mil/sti/tr/pdf/ADA384974.pdf#page=258)
 - NOTE: Before you consider an out-of-court statement of the accused as evidence against
