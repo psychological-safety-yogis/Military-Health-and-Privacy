@@ -87,30 +87,29 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 - [Link 6](https://www.jba.af.mil/Portals/38/documents/Units/Legal-Office/ADC/Mental%20Health%20Eval-2020.pdf?ver=qPDijTkUEcV9bpdN1Q-l9Q%3D%3D&timestamp=1604609153020#page=3)
 - [Link 7](https://www.ramstein.af.mil/News/Commentaries/Display/Article/305718/silence-is-golden-article-31-rights-explained/)
 
-Marine Corps
-https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/
-https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/
-https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other Important Docs/Military_Judges_Benchbook_(Jul_03)(with_updates_through_Feb_08).pdf#page=770
-https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other Important Docs/Military_Judges_Benchbook_(Jul_03)(with_updates_through_Feb_08).pdf#page=770
-https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14
-https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=254
-https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=345
-https://www.trngcmd.marines.mil/Portals/207/Docs/eoa/jagmaninveshandbook.pdf#page=46
+# Marine Corps
 
-Coast Guard
-https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Health-Services-CG-112/Operational-Medicine-and-Quality-Improvement-Division/HIPAA-and-Health-Information-Privacy/
+- [Link 1](https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/)
+- [Page 770](https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other Important Docs/Military_Judges_Benchbook_(Jul_03)(with_updates_through_Feb_08).pdf#page=770)
+- [Page 14](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
+- [Page 254](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=254)
+- [Page 345](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=345)
+- [Page 46](https://www.trngcmd.marines.mil/Portals/207/Docs/eoa/jagmaninveshandbook.pdf#page=46)
 
+# Coast Guard
 
+- [Link 1](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Human-Resources-CG-1/Health-Safety-and-Work-Life-CG-11/Office-of-Health-Services-CG-112/Operational-Medicine-and-Quality-Improvement-Division/HIPAA-and-Health-Information-Privacy/)
 
+# Google Search
 
-Google Search
-https://www.google.com/search?q=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&sca_esv=601425548&sxsrf=ACQVn09_KA0opBbNPY7v3jxcaKYB_Bsmew%3A1706198280117&ei=CIWyZdu9BoyhptQP9q6vkAM&ved=0ahUKEwjb4Zvz8_iDAxWMkIkEHXbXCzIQ4dUDCBA&uact=5&oq=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&gs_lp=Egxnd3Mtd2l6LXNlcnAiTSJtZW50YWwgaGVhbHRoIiBBTkQgImN1c3RvZGlhbCIgQU5EICJtaWxpdGFyeSIgQU5EICJtaXJhbmRhIiBPUiAiYXJ0aWNsZSAzMSIgSNJEUABYt0BwAHgBkAEAmAGxAqABgBeqAQgwLjE5LjAuMbgBA8gBAPgBAcICBRAhGKABwgIFECEYqwLCAggQABiABBiiBOIDBBgAIEE&sclient=gws-wiz-serp
+- [Link 1](https://www.google.com/search?q=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&sca_esv=601425548&sxsrf=ACQVn09_KA0opBbNPY7v3jxcaKYB_Bsmew%3A1706198280117&ei=CIWyZdu9BoyhptQP9q6vkAM&ved=0ahUKEwjb4Zvz8_iDAxWMkIkEHXbXCzIQ4dUDCBA&uact=5&oq=%22mental+health%22+AND+%22custodial%22+AND+%22military%22+AND+%22miranda%22+OR+%22article+31%22+&gs_lp=Egxnd3Mtd2l6LXNlcnAiTSJtZW50YWwgaGVhbHRoIiBBTkQgImN1c3RvZGlhbCIgQU5EICJtaWxpdGFyeSIgQU5EICJtaXJhbmRhIiBPUiAiYXJ0aWNsZSAzMSIgSNJEUABYt0BwAHgBkAEAmAGxAqABgBeqAQgwLjE5LjAuMbgBA8gBAPgBAcICBRAhGKABwgIFECEYqwLCAggQABiABBiiBOIDBBgAIEE&sclient=gws-wiz-serp)
 
+# National Institutes of Health
 
-National Institutes of Health
-https://pubmed.ncbi.nlm.nih.gov/17066764/
-https://pubmed.ncbi.nlm.nih.gov/30573701/
-https://pubmed.ncbi.nlm.nih.gov/30904832/
+- [Link 1](https://pubmed.ncbi.nlm.nih.gov/17066764/)
+- [Link 2](https://pubmed.ncbi.nlm.nih.gov/30573701/)
+- [Link 3](https://pubmed.ncbi.nlm.nih.gov/30904832/)
+
 
 
 
