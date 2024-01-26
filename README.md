@@ -8,25 +8,26 @@
 
 # Code of Federal Regulations
 
-- [[Title]] [Part 2](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2)
-- [[Title]] [Section 164.512](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512)
-- [[Title]] [DOD Health Information Privacy Program](https://www.federalregister.gov/documents/2003/04/09/03-8624/dod-health-information-privacy-program)
+- [Part 2](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2)
+- [Section 164.512](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512)
+- [DOD Health Information Privacy Program](https://www.federalregister.gov/documents/2003/04/09/03-8624/dod-health-information-privacy-program)
 
 # Govinfo.gov
 
-- [[Title]] [Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
-- [[Title]] [Page 5](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=5)
-- [[Title]] [Page 6](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6)
-- [[Title]] [Page 7](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=7)
+- [Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
+- [Page 5](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=5)
+- [Page 6](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6)
+- [Page 7](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=7)
 
 # Defense.gov
 
-- [[Title]] [Page 38](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=38)
-- [[Title]] [Page 655](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d#page=655)
-- [[Title]] [Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=3)
-- [[Title]] [Military Commander and The Law](https://media.defense.gov/2019/Apr/11/2002115350/-1/-1/0/B_0159_JAG_MILITARY_COMMANDER_AND_THE_LAW_.PDFf)
-- [[Title]] [Overseas Victory Week Leaders Guide](https://media.defense.gov/2023/Feb/01/2003154024/-1/-1/0/OVW%20Leaders%20Guide-2022-victor.PDF)
-- [[Title]] [New DOD Actions to Prevent Suicide in the Military](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
+- [Page 38](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=38)
+- [2024 MCM](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d)
+- [Page 655](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d#page=655)
+- [Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=3)
+- [Military Commander and The Law](https://media.defense.gov/2019/Apr/11/2002115350/-1/-1/0/B_0159_JAG_MILITARY_COMMANDER_AND_THE_LAW_.PDFf)
+- [OVW Leaders Guide](https://media.defense.gov/2023/Feb/01/2003154024/-1/-1/0/OVW%20Leaders%20Guide-2022-victor.PDF)
+- [Prevent Suicide in the Military](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
 
 
 Washington Headquarters Services
