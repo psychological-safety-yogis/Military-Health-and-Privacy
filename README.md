@@ -29,15 +29,15 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 
 # An awesome open-source list of ways maximize your mental health while feeling your private information is protected.  
 
-# DISCLAIMER: Nothing in this document is to be construed as legal advice.  Just a list of links you *may* find useful . . . 
-## . . . in the spirit of democratizing all of the information.
+## DISCLAIMER: Nothing in this document is to be construed as legal advice.  Just a list of links you *may* find useful . . . 
+### . . . in the spirit of democratizing all of the information.
 
 
 ## Table of Contents
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#table-of-contents)
 - [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#preamble-a-guide-to-github-readmes-submitting-changes-and-making-your-own)
 - [Related Awesome Websites](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#related-awesome-websites)
-* #### [SECTION A - Top-level Federal / Congressional information](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#congress)
+* #### [SECTION A - Top-level Federal / Congressional information](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-a-top-level)
 - [Congress](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#congress)
 - [Code of Federal Regulations](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#code-of-federal-regulations)
 - [Govinfo.gov](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#govinfogov)
@@ -46,19 +46,19 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Information via Defense Technical Information Center](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#defense-technical-information-center)
 - [Defense Health Agency](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#defense-technical-information-center)
 - [Tricare](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#tricare)
-* #### [SECTION B - Lower-level Federal](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#army)
+* #### [SECTION B - Lower-level Federal](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-b-lower-level)
 - [Army](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#army)
 - [Navy](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#navy)
 - [Air Force](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#air-force)
 - [Marine Corps](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#marine-corps)
 - [Coast Guard](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#coast-guard)
-* #### [SECTION C - meta and Scholarly Research](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#google-search)
-- [A Google (dork) search you might start with](https://github.com/psychological-safety-yogis/awesome-psych-safety#were-a-family)
-- [Podcasts](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#podcasts)
-- [Emotional Intelligence (EQ) assessments](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#emotional-intelligence-eq-assessments)
-- [Consulting Firm articles](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#consulting-firm-articles)
-- [Goodreads Lists](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#goodreads-lists)
-- [Psych Safety Origins and Science from Flight Safety](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#psych-safety-origins-and-science-from-flight-safety)
+* #### [SECTION C - meta and Scholarly Research](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-c-meta-and-scholarly-research)
+- [Search engines](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#search-engines)
+- [Creative research using OSINT](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#creative-research-using-osint-use-with-caution-and-not-on-government-machines--networks)
+- [Scholarly sources](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#scholarly-sources)
+- [World Medical Association Standards](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#world-medical-association-standards)
+- [Other .org's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-org)
+- [Other .com's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-com)
   - [PDFs from Skybrary, "Bookshelf"](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
 - [Mental Health Awesome List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
