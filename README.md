@@ -38,7 +38,8 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#preamble-a-guide-to-github-readmes-submitting-changes-and-making-your-own)
 - [Related Awesome Websites](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#related-awesome-websites)
   - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
-
+  - [Awesome Psychological Safety](https://safetypsy.ch)
+  - [Awesome Comfort and Pain Relief](https://psychological-safety-yogis.github.io/awesome-comfort-pain-relief/)
 * #### [SECTION A - Top-level Federal / Congressional information](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-a-top-level)
 - [Congress](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#congress)
 - [Code of Federal Regulations](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#code-of-federal-regulations)
@@ -102,6 +103,15 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 <br/>
 
 # Related Awesome websites
+
+# [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
+  - [Base repository](https://github.com/dreamingechoes/awesome-mental-health) 
+
+# [Awesome Psychological Safety](https://safetypsy.ch)
+  - [Base repository with PDFs and stuff](https://github.com/psychological-safety-yogis/awesome-psych-safety)
+
+# [Awesome Comfort and Pain Relief](https://psychological-safety-yogis.github.io/awesome-comfort-pain-relief/)
+  - [Base repository](https://github.com/psychological-safety-yogis/awesome-comfort-pain-relief/edit/live/README.md)
 
 # Section A: Top-level
 
@@ -537,6 +547,12 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 # SECTION E - Claims, Accountability, and Freedome of Information
 
+<br/>
+
+<div align="center"><img src="./assets/special-assistant-health-resolutions.png"></div>
+
+<br/>
+
 # [DHA Inspector General Hotline](https://www.health.mil/About-MHS/OASDHA/Defense-Health-Agency/DHA-Office-of-the-Inspector-General)
 - Submit Complaints to the DHA IG Hotline
     - The DHA IG Hotline provides a confidential and reliable avenue to report fraud, waste, abuse, and mismanagement. Please review the table below to determine if the DHA IG Hotline is the appropriate channel to address your issue. If you've determined that the DHA Hotline is the appropriate channel to address your issue, please download the DD Form 2949DD Form 2949 and email it to dha.ncr.dir-support.mbx.ig-hotline@health.mil or send it via postal mail to:
@@ -556,7 +572,13 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 |-|Child and spousal support matters |
 |-|TRICARE complaints|
 
+# [AFJAG Claims Service Center](https://claims.jag.af.mil/)
 
+# [Army JAG Claims](https://www.jagcnet.army.mil/Sites/claims.nsf/homeContent.xsp?open&documentId=BF92B85F048E9ED285257ACB0076E24Ef)
+
+# [Claim Filing Procedures for Medical Malpractice Claims by Navy and Marine Corps Service Members](https://www.jag.navy.mil/legal-services/code-15/ndaa-medical-malpractice/)
+
+# [Medical Malpractice Claims by Members of the Uniformed Services](https://home.army.mil/bliss/about/news/medical-malpractice-claims-members-uniformed-services#:~:text=Air%20Force%3A%20Claims%20should%20be,4620%20or%20DSN%20612%2D4620)
 
 
 
