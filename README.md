@@ -54,7 +54,9 @@
 - [Military Command Exception](https://www.health.mil/Military-Health-Topics/Privacy-and-Civil-Liberties/HIPAA-Compliance-within-the-MHS/Military-Command-Exception)
 - [News Article 1](https://www.health.mil/News/Dvids-Articles/2023/05/31/news445861)
 - [News Article 2](https://www.health.mil/News/Dvids-Articles/2023/12/04/news458878)
-- [S01 Presentation](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
+- [The Dual Roles of Military Psychiatrists: Ethical Considerations
+of the HIPAA Military Command Exception
+Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/course/2022-12/S01%20Presentation.pdf)
 
 
 Army		
