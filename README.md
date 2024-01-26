@@ -37,6 +37,8 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Table of Contents (You Are Here)](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#table-of-contents)
 - [How to edit Github READMEs and request changes](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#preamble-a-guide-to-github-readmes-submitting-changes-and-making-your-own)
 - [Related Awesome Websites](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#related-awesome-websites)
+  - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
+
 * #### [SECTION A - Top-level Federal / Congressional information](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-a-top-level)
 - [Congress](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#congress)
 - [Code of Federal Regulations](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#code-of-federal-regulations)
@@ -59,12 +61,10 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [World Medical Association Standards](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#world-medical-association-standards)
 - [Other .org's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-org)
 - [Other .com's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-com)
-  - [PDFs from Skybrary, "Bookshelf"](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#skybrary-bookshelf-pdfs)
-- [Mental Health Awesome List (like this one! Bonus!)](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#bonus-awesome-mental-health-list):
-  - [Awesome Mental Health](https://dreamingechoes.github.io/awesome-mental-health/#/)
-  - [Source for their Github Pages / github.io page](https://github.com/dreamingechoes/awesome-mental-health)
-- [WORD CLOUD BABY](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#word-cloud-of-this-readme-page-including-section-b-less-a-few)
-* #### [SECTION B - Copy Pasta](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
+
+* #### [SECTION D - Large Language Model Tools to aid you in your journey](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
+
+* #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#section-b---copy-pasta)
 - [Excerpts from Canada's Occupational Health](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#excerpts-from-ccoh)
   - [Fact sheets](https://github.com/psychological-safety-yogis/awesome-psych-safety/blob/live/README.md#mental-health-fact-sheets)
     - [Active Listening](https://www.ccohs.ca/oshanswers/psychosocial/mh/mentalhealth_activelistening.html)
@@ -499,6 +499,45 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [HIPAA Journal, HIPAA Exceptions, Posted By Steve Alder on Dec 1, 2023](https://www.hipaajournal.com/hipaa-exceptions/)
 - [Justia, Involuntary Confessions by Criminal Suspects & Legal Concerns](https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions/)
 - [Military Justice Attorneys on rights to counsel](https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/)
+
+
+# SECTION D - Large Language Model Tools to aid you in your journey
+
+Phind.com
+- [Customize what websites Phind prioritizes](https://www.phind.com/profile)
+- [Filters](https://www.phind.com/filters)
+- [Search operators ("Bangs," like an exclamation mark)](https://www.phind.com/bangs)
+- [Search](https://www.phind.com/search?home=true)
+- [Chat](https://www.phind.com/agent?home=true)
+- [Add this custom address to add Phind to your browser search engines, or use the Chrome extension if you're on Chromium-based browsers](https://www.phind.com/search?q=%s)
+
+Poe
+- [Create a Poe bot.  It can run on many different engines (ie OpenAI, Claude, Llama, etc.)](https://poe.com/create_bot)
+  - [How-to](https://developer.poe.com/prompt-bots/how-to-create-a-prompt-bot)
+
+OpenAI ChatGPT
+- [Create your own "GPT" (custom bot)](https://help.openai.com/en/articles/8554397-creating-a-gpt)
+  - [Editor](https://chat.openai.com/gpts/editor)
+
+Vercel
+- [Vercel AI](https://github.com/vercel/ai)
+- [Vercel Software Developement Kit](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
+- [Deploying AI Applications](https://vercel.com/blog/deploying-ai-applications)
+- [Getting started with Sveltekit](https://vercel.com/docs/beginner-sveltekit/getting-started)
+
+Google
+- [Create with Vertex AI](https://console.cloud.google.com/vertex-ai/generative/multimodal/create/)
+
+# SECTION E - Claims, Accountability, and Freedome of Information
+
+
+
+
+
+
+
+
+
 
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WHM52J47"
