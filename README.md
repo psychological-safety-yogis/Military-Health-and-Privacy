@@ -90,7 +90,7 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 # Marine Corps
 
 - [Link 1](https://www.marines.mil/News/Messages/Messages-Display/Article/3529205/self-initiated-referral-process-for-mental-health-evaluations-of-marines-the-br/)
-- [Page 770](https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other%20Important%20Docs/Military_Judges_Benchbook_(Jul_03)(with_updates_through_Feb_08).pdf#page=770)
+- [Page 770](https://www.mcieast.marines.mil/Portals/33/Documents/EJC/Other%20Important%20Docs/Military_Judges_Benchbook_\(Jul_03\)\(with_updates_through_Feb_08\).pdf#page=770)
 - [Page 14](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=14)
 - [Page 254](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=254)
 - [Page 345](https://www.newriver.marines.mil/Portals/17/Documents/HANDBOOK%20FOR%20MILITARY%20JUSTICE%20AND%20CIVIL%20LAW%20-%20NJS%202006.pdf#page=345)
