@@ -35,9 +35,9 @@ self-incrimination, Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRem
   - f) "Standard: Disclosures for Law Enforcement Purposes. A DoD covered entity may
 disclose PHI for a law enforcement purpose to a law enforcement official if the conditions in
 Paragraphs 4.4.f.(1) through 4.4.f.(7) are met, as applicable.
-    - (1) Permitted Disclosures: Pursuant to Process and as Otherwise Required By Law. A
+    (1) Permitted Disclosures: Pursuant to Process and as Otherwise Required By Law. A
 DoD covered entity may disclose PHI:
-      - (a) As required by law including laws that require the reporting of certain types of
+      (a) As required by law including laws that require the reporting of certain types of
 wounds or other physical injuries, except for laws subject to Paragraph 4.4.b.(1)(b) (reports of
 child abuse and neglect) or 4.4.c.(1) (reports required by law of abuse, neglect, or domestic
 violence).
