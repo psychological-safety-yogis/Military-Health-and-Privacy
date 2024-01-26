@@ -183,11 +183,11 @@ missing person, if:
 # Defense Technical Information Center
 
 - [The Summary Court Martial - Special Evidence Problem - Confessions](https://apps.dtic.mil/sti/tr/pdf/ADA384974.pdf#page=258)
-- NOTE: Before you consider an out-of-court statement of the accused as evidence against
+  - NOTE: Before you consider an out-of-court statement of the accused as evidence against
 him, you must be convinced by a preponderance of the evidence that the statement was
 made voluntarily and that, if required, the accused was properly advised of his rights.
 Mil.R.Evid. 304, 305.
-- A confession or admission is not voluntary if it was obtained through the use of
+  - A confession or admission is not voluntary if it was obtained through the use of
 coercion, unlawful influence, or unlawful inducement, including obtaining the statement by
 questioning an accused without complying with the warning requirements of Article 31(b),
 UCMJ, and without first advising the accused of his rights to counsel during a custodial
@@ -210,40 +210,40 @@ not invoke any of these rights at any stage of the interrogation. In all cases i
 considering the reception in evidence of a self-incriminating statement of the accused, you
 should call the person who obtained the statement to testify as a witness and question him
 substantially as follows:
-SUMMARY COURT MARTIAL: After the routine introductory questions) Did you have occasion to speak to
+    - SUMMARY COURT MARTIAL: After the routine introductory questions) Did you have occasion to speak to
 the accused on _________________?
-WITNESS (INTERROGATOR): (Yes) (No)
-SUMMARY COURT MARTIAL: Where did this conversation take place, and at what time did it begin?
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: Who else, if anyone, was present?
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: What time did the conversation end? 
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: Was the accused permitted to smoke as he desired during the period of time involved in the conversation? 
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: Was the accused permitted to drink water as he desired during the conversation?
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: Was the accused permitted to eat meals at the normal meal times as he desired
+    - WITNESS (INTERROGATOR): (Yes) (No)
+    - SUMMARY COURT MARTIAL: Where did this conversation take place, and at what time did it begin?
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: Who else, if anyone, was present?
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: What time did the conversation end? 
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: Was the accused permitted to smoke as he desired during the period of time involved in the conversation? 
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: Was the accused permitted to drink water as he desired during the conversation?
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: Was the accused permitted to eat meals at the normal meal times as he desired
 during the conversation?
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: Prior to the accused making a statement, what, if anything, did you advise him
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: Prior to the accused making a statement, what, if anything, did you advise him
 concerning the offense of which he was suspected?
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: (I advised him that I suspected him of the _______crime_______ on ________date_____.
-(INTERROGATOR): _______________.
-SUMMARY COURT MARTIAL: What, if anything, did you advise the accused concerning his right to remain
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: (I advised him that I suspected him of the _______crime_______ on ________date_____.
+    - (INTERROGATOR): _______________.
+    - SUMMARY COURT MARTIAL: What, if anything, did you advise the accused concerning his right to remain
 silent?
-(INTERROGATOR): (I informed the accused that he need not make any statement and that he had
+    - (INTERROGATOR): (I informed the accused that he need not make any statement and that he had
 the right to remain silent.)
-SUMMARY COURT MARTIAL: What, if anything, did you advise the accused of the use that could be made of
+    - SUMMARY COURT MARTIAL: What, if anything, did you advise the accused of the use that could be made of
 a statement if he made one?
-(INTERROGATOR): (I advised the accused that, if he elected to make a statement, it could be used
+    - (INTERROGATOR): (I advised the accused that, if he elected to make a statement, it could be used
 as evidence against him at a court-martial or other proceeding.)
-SUMMARY COURT MARTIAL: Did you ask the accused if he desired to consult with a lawyer or to have a
+    - SUMMARY COURT MARTIAL: Did you ask the accused if he desired to consult with a lawyer or to have a
 lawyer present?
-(INTERROGATOR): (Yes) (No)
-(If answer to previous question was affirmative) What was his reply?
-(INTERROGATOR): (He stated he did (not) wish to consult with a lawyer (or to have a lawyer
+    - (INTERROGATOR): (Yes) (No)
+    - SUMMARY COURT MARTIAL: (If answer to previous question was affirmative) What was his reply?
+    - (INTERROGATOR): (He stated he did (not) wish to consult with a lawyer (or to have a lawyer
 present).)"
  . . . and so on.
 
