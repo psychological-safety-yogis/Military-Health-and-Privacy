@@ -100,7 +100,7 @@ These revisions are intended to:
   - [Page 25, SECTION 4. USES AND DISCLOSURES OF PHI, 4.1. GENERAL RULES ON USES OR DISCLOSURES OF PHI. Standard: Permitted and Prohibited Uses and Disclosures. DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25)
 - [Page 41, Permitted Disclosures: Limited Information for Identification and Location Purposes | DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=41)
 
-  f) "Standard: Disclosures for Law Enforcement Purposes. A DoD covered entity may
+  - f) "Standard: Disclosures for Law Enforcement Purposes. A DoD covered entity may
 disclose PHI for a law enforcement purpose to a law enforcement official if the conditions in
 Paragraphs 4.4.f.(1) through 4.4.f.(7) are met, as applicable.
     (1) Permitted Disclosures: Pursuant to Process and as Otherwise Required By Law. A
