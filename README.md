@@ -354,6 +354,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://ajp.psychiatryonline.org/d
 Jane Dickson, Michelle Stewart](https://onlinelibrary.wiley.com/doi/10.1002/bsl.2536)
 - [Dual Loyalties in Military Medical Care – Between Ethics and Effectiveness | Peter Olsthoorn, Myriame Bollen & Robert Beeres](https://philarchive.org/archive/OLSDLI)
 - [ Dual loyalty in military medical ethics: a moral dilemma or a test of integrity? Peter Olsthoorn ](https://philarchive.org/rec/OLSDLI-2)
+  - [Dual loyalty in military medical ethics: a moral dilemma or a test of integrity?](https://militaryhealth.bmj.com/content/165/4/282)
 - [Military Medical Ethics: Privacy, Military Necessity, and the Dual Roles of Military Psychiatrists
 Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
 - [something at EBSCOHost that I can't find anymore with just the link](https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=09fb02ee-8d3f-4ee6-8ccb-ba19c4071465%40redis)
@@ -366,25 +367,22 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 
 # World Medical Association standards
 
-- [Link 1](https://www.wma.net/policies-post/wma-declaration-of-tokyo-guidelines-for-physicians-concerning-torture-and-other-cruel-inhuman-or-degrading-treatment-or-punishment-in-relation-to-detention-and-imprisonment/)
-- [Link 2](https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/)
-- [Link 3](https://www.wma.net/policies-post/wma-regulations-in-times-of-armed-conflict-and-other-situations-of-violence/)
-- [Link 4](https://www.wma.net/policies-post/wma-statement-on-the-protection-and-integrity-of-medical-personnel-in-armed-conflicts-and-other-situations-of-violence/)
-- [Link 5](https://www.wma.net/wp-content/uploads/2019/10/Dual-Loyalty-Cecil-Wilson-.pdf)
+- [WMA Declaration of Tokyo – Guidelines for Physicians Concerning Torture and other Cruel, Inhuman or Degrading Treatment or Punishment in Relation to Detention and Imprisonment ](https://www.wma.net/policies-post/wma-declaration-of-tokyo-guidelines-for-physicians-concerning-torture-and-other-cruel-inhuman-or-degrading-treatment-or-punishment-in-relation-to-detention-and-imprisonment/)
+- [WMA International Code of Medical Ethics](https://www.wma.net/policies-post/wma-international-code-of-medical-ethics/)
+- [WMA Statement in Times of Armed Conflict and Other Situations of Violence](https://www.wma.net/policies-post/wma-regulations-in-times-of-armed-conflict-and-other-situations-of-violence/)
+- [WMA Declaration on the Protection and Integrity of Medical Personnel in Armed Conflicts and Other Situations of Violence](https://www.wma.net/policies-post/wma-statement-on-the-protection-and-integrity-of-medical-personnel-in-armed-conflicts-and-other-situations-of-violence/)
+- [Dual Loyalty in Military Medicine, August 17, 2019](https://www.wma.net/wp-content/uploads/2019/10/Dual-Loyalty-Cecil-Wilson-.pdf)
 
 # Other .org
 
-- [Link 1](https://www.ama-assn.org/delivering-care/public-health/ama-declaration-professional-responsibility)
-- [Link 2](https://www.americanbar.org/content/dam/aba/publications/criminal_justice_standards/mental_health_standards_2016.authcheckdam.pdf)
-- [Page 12](https://deploymentpsych.org/sites/default/files/military_culture_links/6490.04%20Mental%20Health%20Evaluations%20of%20Members%20of%20the%20Military%20Services.pdf#page=12)
+- [Medicine’s social contract with humanity](https://www.ama-assn.org/delivering-care/public-health/ama-declaration-professional-responsibility)
+- [CRIMINAL JUSTICE STANDARDS ON MENTAL HEALTH | August 8, 2016 | ABA Criminal Justice Mental Health Standards](https://www.americanbar.org/content/dam/aba/publications/criminal_justice_standards/mental_health_standards_2016.authcheckdam.pdf)
+- [Patient Rights, Fitness and Suitability for Service, page 12 | DODI 6490.04, 4 Mar 2013, Mental Health Evaluations of Members of the Military Services](https://deploymentpsych.org/sites/default/files/military_culture_links/6490.04%20Mental%20Health%20Evaluations%20of%20Members%20of%20the%20Military%20Services.pdf#page=12)
 
 # Other .com
 
 - [Article 138 Complaints: Servicemembers’ Tool for Redress](https://nlgmltf.org/military-law/2014/article-138/)
 - [Military Patients’ Privacy Rights](https://nlgmltf.org/military-law/2019/military-patients-privacy-rights/)
-- [Link 1](https://militaryhealth.bmj.com/content/165/4/282)
-- [Link 2](https://www.hipaajournal.com/hipaa-exceptions/)
-- [Link 3](https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions/)
-- [Link 4](https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/)
-- [Link 5](https://onlinelibrary.wiley.com/doi/10.1002/bsl)
-
+- [HIPAA Journal, HIPAA Exceptions, Posted By Steve Alder on Dec 1, 2023](https://www.hipaajournal.com/hipaa-exceptions/)
+- [Justia, Involuntary Confessions by Criminal Suspects & Legal Concerns](https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions/)
+- [Military Justice Attorneys on rights to counsel](https://www.militaryjusticeattorneys.com/blog/fundamental-rights-the-right-to-counsel/)
