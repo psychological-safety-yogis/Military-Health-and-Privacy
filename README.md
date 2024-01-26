@@ -98,7 +98,86 @@ These revisions are intended to:
   - [Page 6, DOD INSTRUCTION 6490.08 COMMAND NOTIFICATION REQUIREMENTS TO DISPEL STIGMAS IN PROVIDING MENTAL HEALTH CARE TO SERVICE MEMBERS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/649008p.pdf#page=6)
 - [DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717)
   - [Page 25, SECTION 4. USES AND DISCLOSURES OF PHI, 4.1. GENERAL RULES ON USES OR DISCLOSURES OF PHI. Standard: Permitted and Prohibited Uses and Disclosures. DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=25)
-- [Page 42 (continued from 41), Permitted Disclosures: Limited Information for Identification and Location Purposes | DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=42)
+- [Page 41, Permitted Disclosures: Limited Information for Identification and Location Purposes | DOD MANUAL 6025.18 IMPLEMENTATION OF THE HEALTH INSURANCE PORTABILITY AND ACCOUNTABILITY ACT (HIPAA) PRIVACY RULE IN DOD HEALTH CARE PROGRAMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodm/602518m.pdf?ver=2019-03-13-123513-717#page=41)
+  - "f. Standard: Disclosures for Law Enforcement Purposes. A DoD covered entity may
+disclose PHI for a law enforcement purpose to a law enforcement official if the conditions in
+Paragraphs 4.4.f.(1) through 4.4.f.(7) are met, as applicable.
+    (1) Permitted Disclosures: Pursuant to Process and as Otherwise Required By Law. A
+DoD covered entity may disclose PHI:
+      (a) As required by law including laws that require the reporting of certain types of
+wounds or other physical injuries, except for laws subject to Paragraph 4.4.b.(1)(b) (reports of
+child abuse and neglect) or 4.4.c.(1) (reports required by law of abuse, neglect, or domestic
+violence).
+      (b) In compliance with, and as limited by, the relevant requirements of:
+        1. A court order, court-ordered warrant, subpoena, or summons issued by a
+judicial officer.
+        2. A grand jury subpoena.
+        3. An administrative request, including an administrative subpoena or summons,
+a civil or an authorized investigative demand, or similar process authorized under law, if:
+          a. The information sought is relevant and material to a legitimate law
+enforcement inquiry.
+          b. The request is in writing, specific, and limited in scope to the extent
+reasonably practicable in light of the purpose for which the information is sought.
+          c. De-identified information could not reasonably be used.
+    (2) Permitted Disclosures: Limited Information for Identification and Location
+Purposes. Except for disclosures required by law as permitted by Paragraph 4.4.f.(1)(a), a DoD
+covered entity may disclose PHI in response to a law enforcement official’s request for such
+information for the purpose of identifying or locating a suspect, fugitive, material witness, or
+missing person, if:
+      (a) The DoD covered entity discloses only the following information.
+          1. Name and address.
+          2. Date and place of birth.
+          3. Social security number.
+          4. ABO blood type and rhesus factor.
+          5. Type of injury.
+          6. Date and time of treatment.
+          7. Date and time of death, if applicable.
+          8. A description of distinguishing physical characteristics, including height,
+          weight, gender, race, hair and eye color, presence or absence of facial hair (beard or moustache),
+          scars, and tattoos.
+        (b) Except as permitted by Paragraph 4.4.f.(2)(a), the DoD covered entity does not
+        disclose for the purposes of identification or location under Paragraph 4.4.f.(2) any PHI related
+        to the individual’s deoxyribonucleic acid analysis, dental records, or typing, samples, or analysis
+        of body fluids or tissue.
+    (3) Permitted Disclosure: Victims of a Crime. In addition to disclosures required by law
+        as permitted by Paragraph 4.4.f.(1) or otherwise authorized under this section (such as
+        disclosures for public health activities or disclosures about victims of abuse, neglect, or domestic
+        violence), a DoD covered entity may disclose PHI in response to a law enforcement official’s
+        request for such PHI about an individual who is or is suspected to be a victim of a crime (subject
+        to the special rules for sexual assault and domestic abuse under Paragraph 4.4 f.(7)) if:
+          (a) The individual agrees to the disclosure; or
+          (b) The DoD covered entity is unable to obtain the individual’s agreement because of
+          incapacity or other emergency circumstance, provided that:
+          1. The law enforcement official represents that such PHI is needed to determine
+        whether a violation of law by a person other than the victim has occurred, and such PHI is not
+        intended to be used against the victim.
+          2. The law enforcement official represents that immediate law enforcement
+        activity that depends upon the disclosure would be materially and adversely affected by waiting
+        until the individual is able to agree to the disclosure.
+          3. The disclosure is in the best interests of the individual as determined by the
+        DoD covered entity, in the exercise of professional judgment.
+    (4) Permitted Disclosure: Decedents. A DoD covered entity may disclose PHI about an
+        individual who has died to a law enforcement official for the purpose of alerting law
+        enforcement of the death of the individual if the DoD covered entity has a suspicion that such
+        death may have resulted from criminal conduct.
+    (5) Permitted Disclosure: Crime on Premises. A DoD covered entity may disclose to a
+        law enforcement official PHI that the DoD covered entity believes in good faith constitutes
+        evidence of criminal conduct that occurred on the premises of the DoD covered entity.
+    (6) Permitted Disclosure: Reporting Crime in Emergencies.
+      (a) A covered health care provider providing emergency health care in response to a
+      medical emergency, other than such emergency on the premises of the covered health care
+      provider, may disclose PHI to a law enforcement official if such disclosure appears necessary to
+      alert law enforcement to:
+        1. The commission and nature of a crime.
+        2. The location of such crime or of the victim(s) of such crime.
+        3. The identity, description, and location of the perpetrator of such crime.
+      (b) If a covered health care provider believes that the medical emergency described
+      in Paragraph 4.4.f.(6)(a) is the result of abuse, neglect, or domestic violence of the individual in
+      need of emergency health care, Paragraph 4.4.f.(6)(a) does not apply and any disclosure to a law
+      enforcement official for law enforcement purposes is subject to Paragraph 4.4.c.
+    (7) Permitted Disclosure: Sexual Assault and Domestic Abuse Cases. In cases in which
+    a victim of sexual assault or domestic abuse elects restricted reporting under DoDI 6495.02 or
+    DoDI 6400.06, the limitations on disclosure under these issuances apply."
 
 # Defense Technical Information Center
 
