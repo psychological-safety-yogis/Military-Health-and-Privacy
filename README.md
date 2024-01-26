@@ -292,7 +292,8 @@ missing person, if:
 
 
 ## DHA
-
+- [DHA Publications](https://health.mil/Reference-Center/DHA-Publications)
+- [Healthcare Resolutions, Disclosure, Clinical Conflict Management and Healthcare Provider (HCP) Resiliency and Support in the Military Health System (MHS)](https://www.health.mil/Reference-Center/DHA-Publications/2019/06/18/DHA-PI-6025-17)
 - [The Military Command Exception and Disclosing PHI of Armed Forces Personnel](https://health.mil/Reference-Center/Fact-Sheets/2022/01/05/Info-Paper-Military-Command-Exception-and-Disclosing-PHI-of-Armed-Forces-Personnel)
 - [Military Command Exception](https://www.health.mil/Military-Health-Topics/Privacy-and-Civil-Liberties/HIPAA-Compliance-within-the-MHS/Military-Command-Exception)
   - Under the Military Command Exception, a covered entity may disclose the PHI of Service members for authorized
@@ -577,6 +578,7 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [DOD Online FOIA Submission form](https://pal.whs.mil/app/MainPage.aspx)
 - [Office of the Secretary of Defense and Joint Staff Freedom of Information Act Requester Service Center](https://www.esd.whs.mil/FOID/)
 - [DOD Inspector General - mostly for if you've actually filed complaints through their hotline](https://www.dodig.mil/FOIA/)
+- [DOD FOIA Transparency](https://open.defense.gov/Transparency/FOIA.aspx)
 
 ## Army
 - [Army FOIA requests](https://www.hrc.army.mil/content/Freedom%20of%20Information%20and%20Privacy%20Act%20Requests)
@@ -605,10 +607,6 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Coast Guard Freedom of Information](https://www.dcms.uscg.mil/Our-Organization/Assistant-Commandant-for-Engineering-Logistics-CG-4-/FOIA/)
 - [DHS How-to](https://www.dhs.gov/foia)
 
-# More DHA stuff
-- [DHA Publications](https://health.mil/Reference-Center/DHA-Publications)
-- [Healthcare Resolutions, Disclosure, Clinical Conflict Management and Healthcare Provider (HCP) Resiliency and Support in the Military Health System (MHS)](https://www.health.mil/Reference-Center/DHA-Publications/2019/06/18/DHA-PI-6025-17)
-
 
 # [Department of Defense Office of Inspector General](https://www.oversight.gov/Inspectors-General/Department-Defense-OIG)
 - The Department of Defense Office of Inspector General was established in 1982. The mission of the DoD OIG, as established by the Inspector General Act of 1978, as amended, (5 U.S.C. Appendix); and implemented by DoD Directive 5106.01, "Inspector General of the Department of Defense," is to serve as an independent and objective office in DoD to:
@@ -622,6 +620,9 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
   - [OIG Website URL: http://www.dodig.mil](http://www.dodig.mil)
   - Agencies Overseen:
   - Department of Defense, Abbreviation: DoD
+- [DOD Inspector General](https://www.dodig.mil/)
+- [DOD IG Hotline](https://www.dodig.mil/Components/Administrative-Investigations/DoD-Hotline/)
+- [Whistleblower Protection](https://www.dodig.mil/Components/Administrative-Investigations/Whistleblower-Reprisal-Investigations/Whistleblower-Protection-Coordinator/)
 
 | What to Report to the OIG Hotline. Examples of violations to report to the DoD Hotline: | Certain matters may be better resolved through other channels, instead of the DoD Hotline. The following matters are NOT generally investigated by the Department of Defense Inspector General. What Not to report to the OIG Hotline: |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
