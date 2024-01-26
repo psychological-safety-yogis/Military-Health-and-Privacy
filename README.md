@@ -9,25 +9,70 @@
 # Code of Federal Regulations
 
 - [PART 2—CONFIDENTIALITY OF SUBSTANCE USE DISORDER PATIENT RECORDS](https://www.ecfr.gov/current/title-42/chapter-I/subchapter-A/part-2)
-- [§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required.](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512)
+- [§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is not required](https://www.ecfr.gov/current/title-45/subtitle-A/subchapter-C/part-164/subpart-E/section-164.512)
 - [DOD Health Information Privacy Program](https://www.federalregister.gov/documents/2003/04/09/03-8624/dod-health-information-privacy-program)
 
 # Govinfo.gov
 
-- [Public Health Service,  patient information. 42 CFR Ch. I § 2.23 (10–1–22 Edition), Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
+- [Public Health Service, Confidentiality, restrictions and safeguards. 42 CFR Ch. I § 2.13 (10–1–22 Edition), Page 7](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=7)
 - [Public Health Service,  restrictions on disclosure. 42 CFR Ch. I § 2.12 (10–1–22 Edition), Page 5](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=5)
-- [Page 6](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6)
-- [Page 7](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=7)
+- [same, continued Page 6](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=6)
+- [Public Health Service,  patient information. 42 CFR Ch. I § 2.23 (10–1–22 Edition), Page 12](https://www.govinfo.gov/content/pkg/CFR-2022-title42-vol1/pdf/CFR-2022-title42-vol1-part2.pdf#page=12)
 
 # Defense.gov
 
-- [Page 38](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=38)
-- [2024 MCM](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d)
-- [Page 655](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d#page=655)
-- [Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=3)
+- [Military Rules of Evidence, Rule 513, Psychotherapist-patient privilege, Page 38](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=38)
+- [Military Rules of Evidence, Rule 301. Privilege concerning compulsory
+self-incrimination, Page 3](https://jsc.defense.gov/Portals/99/Documents/MREsRemoved412e.pdf#page=3)
+- [2024 MCM, Manual for Courts-Martial](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d)
+- [MCM on search, seizure, self-incrimination, Page 655](https://jsc.defense.gov/Portals/99/2024%20MCM%20files/MCM%20(2024%20ed)%20(2024_01_02).pdf?ver=6Sk4QFffDE45HeNjOd7KpQ%3d%3d#page=655)
 - [Military Commander and The Law](https://media.defense.gov/2019/Apr/11/2002115350/-1/-1/0/B_0159_JAG_MILITARY_COMMANDER_AND_THE_LAW_.PDFf)
-- [OVW Leaders Guide](https://media.defense.gov/2023/Feb/01/2003154024/-1/-1/0/OVW%20Leaders%20Guide-2022-victor.PDF)
-- [Prevent Suicide in the Military](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
+- [VICTORY WELLNESS GUIDE, 1st Infantry Division’s and Fort Riley](https://media.defense.gov/2023/Feb/01/2003154024/-1/-1/0/OVW%20Leaders%20Guide-2022-victor.PDF)
+- [26 Sep 2023, New DoD Actions to Prevent Suicide in the Military, Page 2, ](https://media.defense.gov/2023/Sep/28/2003310249/-1/-1/1/NEW-DOD-ACTIONS-TO-PREVENT-SUICIDE-IN-THE-MILITARY.PDF#page=2)
+
+- Emphasis on Lines of Effort (LOE) 2, 3, 4:
+  2) "Improve the Delivery of Mental Health Care. Mental health is vital to every
+Service member' s well-being and to the overall readiness of our force . It is our
+solemn obligation to provide the best possible mental health care to our men and
+women in uniform. In March 2023 , I approved the immediate implementation of 10
+actions related to the SPRIRC recommendations for improving access to behavioral
+and mental health care. To advance this line of effort, the Department will begin
+implementing 24 additional SPRIRC recommendations to improve mental health
+service delivery and achieve the following priorities:
+    - Expand training programs and actions to better recruit, support, and retain
+mental health providers.
+    - Remove obstacles to improve coordination of care.
+    - Eliminate barriers to provider pay equity, timely hiring, and efficient
+on boarding.
+    - Increase appointment availability by revising mental health staffing models to
+ensure that mental health clinics have the administrative and case management
+support they need.
+  3) Address Stigma and Other Barriers to Care. The Department has taken important
+actions to eliminate the stubborn stigma around asking for help, and we have helped
+reduce barriers to seeking mental health care. The Office of the Under Secretary of
+Defense for Personnel and Readiness (USD(P&R)) has conducted a comprehensive
+review and revision of policies across the Department, working to eliminate
+stigmatizing language. Additionally, the Department has issued guidance to
+implement the Brandon Act, which allows Service members to self-initiate referrals
+for mental health evaluations and seeks to promote a culture of reaching out for help.
+To continue these efforts, the Department will begin implementing 14 approved
+SPRIRC recommendations to advance the following objectives:
+    - Expand availability of confidential services, including non-medical
+counseling for suicide prevention.
+    - Increase mental health services in primary care.
+    - Expand availability of tele-health care and other digital tools.
+    - Provide additional resources to support unit leaders in reducing stigma.
+  4) Revise Suicide Prevention Training. The Department is undertaking a foundational
+shift toward a comprehensive integrated prevention strategy, applying a public-health
+approach to the prevention of harmful behaviors. This will help create healthier, more
+supportive environments by enhancing protections for our communities and
+eliminating risk factors. The implementation of the approved recommendations of the
+Independent Review Commission on Sexual Assault in the Military, specifically the
+stand-up of the Integrated Primary Prevention Workforce, has been a core part of this
+shift, as have our efforts to better educate Department leaders about prevention and
+give them greater visibility into the data that can help them assess command climate.
+Looking ahead, we need to build on the lessons learned and revise suicide prevention
+training to focus more directly on stressors and risk factors that Service members face
 
 
 # Washington Headquarters Services
