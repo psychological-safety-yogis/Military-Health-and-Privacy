@@ -525,6 +525,9 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/1
 - [Create your own "GPT" (custom bot)](https://help.openai.com/en/articles/8554397-creating-a-gpt)
   - [Editor](https://chat.openai.com/gpts/editor)
 
+# Anthropic Claude
+- [Getting started with Claude and Anthropic's API](https://docs.anthropic.com/claude/reference/getting-started-with-the-api)
+
 # Vercel
 - [Vercel AI](https://github.com/vercel/ai)
 - [Vercel Software Developement Kit](https://vercel.com/blog/introducing-the-vercel-ai-sdk)
