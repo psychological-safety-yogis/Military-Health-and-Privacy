@@ -346,15 +346,16 @@ Navy Lt. Meghan Quinn, M.D.](https://www.dhaj7-cepo.com/sites/default/files/cour
 - [A Code of Ethics for Military Medicine, Richard Thomas, Frederick Lough](https://academic.oup.com/milmed/article/185/5-6/e527/5803039)
 - [Military Medical Ethics: Privacy, Military Necessity, and the Dual Roles of Military Psychiatrists
 Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://ajp.psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
-- [Link 4](https://doi.org/10.17226/12478)
-- [Link 5](https://nap.nationalacademies.org/catalog/12478/military-medical-ethics-issues-regarding-dual-loyalties-workshop-summary)
-- [Link 6](https://nap.nationalacademies.org/read/11434/chapter/6#51)
-- [Link 7](https://nlgmltf.org/military-law/2014/article-138/)
-- [Link 8](https://nlgmltf.org/military-law/2019/military-patients-privacy-rights/)
-- [Link 9](https://onlinelibrary.wiley.com/doi/10.1002/bsl.)
-- [Link 10](https://philarchive.org/archive/OLSDLI)
-- [Link 11](https://philarchive.org/rec/OLSDLI-2)
-- [Link 12](https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
+- [Military Medical Ethics Issues Regarding Dual Loyalties: Workshop Summary \(2009\)](https://doi.org/10.17226/12478)
+  - [Download Link](https://nap.nationalacademies.org/login.php?record_id=12478)
+  - "Dual loyalties exist in many medical fields, from occupational health to public health. Military health professionals, as all health professionals, are ethically responsible for their patients' well-being. In some situations, however, military health professionals can face unique ethical tensions between responsibilities to individual patients and responsibilities to military operations."
+  - [other link](https://nap.nationalacademies.org/catalog/12478/military-medical-ethics-issues-regarding-dual-loyalties-workshop-summary)
+- [Risk, rights and deservedness: Navigating the tensions of Gladue, Fetal Alcohol Spectrum Disorder and settler colonialism in Canadian courts
+Jane Dickson, Michelle Stewart](https://onlinelibrary.wiley.com/doi/10.1002/bsl.2536)
+- [Dual Loyalties in Military Medical Care – Between Ethics and Effectiveness | Peter Olsthoorn, Myriame Bollen & Robert Beeres](https://philarchive.org/archive/OLSDLI)
+- [ Dual loyalty in military medical ethics: a moral dilemma or a test of integrity? Peter Olsthoorn ](https://philarchive.org/rec/OLSDLI-2)
+- [Military Medical Ethics: Privacy, Military Necessity, and the Dual Roles of Military Psychiatrists
+Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://psychiatryonline.org/doi/10.1176/appi.ajp-rj.2020.150408)
 - [Link 13](https://web.p.ebscohost.com/ehost/pdfviewer/pdfviewer?vid=1&sid=09fb02ee-8d3f-4ee6-8ccb-ba19c4071465%40redis)
 - [Link 14](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/dual-loyalty-among-military-health-professionals-human-rights-and-ethics-in-times-of-armed-conflict/A9AF365BAD5F359E076A2D19A2199936)
 - [Link 15](https://www.cambridge.org/core/journals/cambridge-quarterly-of-healthcare-ethics/article/abs/teaching-military-medical-ethics-another-look-at-dual-loyalty-and-triage/62B255DE712E33900FCD62D9693C7880)
@@ -379,6 +380,8 @@ Meghan Quinn, M.D., Sean Wilkes, M.D., M.Sc.](https://ajp.psychiatryonline.org/d
 
 # Other .com
 
+- [Article 138 Complaints: Servicemembers’ Tool for Redress](https://nlgmltf.org/military-law/2014/article-138/)
+- [Military Patients’ Privacy Rights](https://nlgmltf.org/military-law/2019/military-patients-privacy-rights/)
 - [Link 1](https://militaryhealth.bmj.com/content/165/4/282)
 - [Link 2](https://www.hipaajournal.com/hipaa-exceptions/)
 - [Link 3](https://www.justia.com/criminal/procedure/miranda-rights/involuntary-confessions/)
