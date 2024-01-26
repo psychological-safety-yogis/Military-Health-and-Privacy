@@ -63,6 +63,11 @@ This page was built using [Github Pages](https://docs.github.com/en/pages/quicks
 - [Other .com's](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#other-com)
 
 * #### [SECTION D - Large Language Model Tools to aid you in your journey](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-d---large-language-model-tools-to-aid-you-in-your-journey-1)
+- [Phind](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#phindcom)
+- [Poe](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#poe)
+- [OpenAI ChatGPT](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#openai-chatgpt)
+- [Vercel](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#vercel)
+- [Google Vertex AI](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#google)
 
 
 * #### [SECTION E - Claims, Accountability, and FOIA](https://github.com/psychological-safety-yogis/Military-MH-and-Privacy/blob/live/README.md#section-e---claims-accountability-and-freedome-of-information)
